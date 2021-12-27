@@ -1,0 +1,1817 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Visual Capitalist</title>
+	<atom:link href="http://www.visualcapitalist.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.visualcapitalist.com</link>
+	<description>Data-driven visuals that help explain a complex world</description>
+	<lastBuildDate>Fri, 24 Dec 2021 21:40:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>https://www.visualcapitalist.com/wp-content/uploads/2021/04/cropped-logo-32x32.png</url>
+	<title>Visual Capitalist</title>
+	<link>https://www.visualcapitalist.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">71661740</site>	<item>
+		<title>A Visual Guide to Profile Picture NFTs</title>
+		<link>https://www.visualcapitalist.com/a-visual-guide-to-profile-picture-nfts/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-visual-guide-to-profile-picture-nfts</link>
+					<comments>https://www.visualcapitalist.com/a-visual-guide-to-profile-picture-nfts/#respond</comments>
+		
+		<dc:creator><![CDATA[Marcus Lu]]></dc:creator>
+		<pubDate>Sun, 26 Dec 2021 15:03:17 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[digital assets]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Metaverse]]></category>
+		<category><![CDATA[profile picture nft]]></category>
+		<guid isPermaLink="false">https://www.visualcapitalist.com/?p=144620</guid>
+
+					<description><![CDATA[<p>Feeling bored on social media? Consider investing in profile picture NFTs, one of the most popular digital assets being traded today.</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/a-visual-guide-to-profile-picture-nfts/">A Visual Guide to Profile Picture NFTs</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="rss-image"><p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/A-Visual-Guide-to-Profile-Picture-NFTs.jpg" alt="Profile picture NFTs" /></p>
+<p><center><span class="bg-showmore-enable-customized-display"><input type='hidden' bg_collapse_expand_pro='61c98b0ad1df85092675409' value=61c98b0ad1df85092675409><input type='hidden' id='bg-show-more-text-61c98b0ad1df85092675409' value='▼ Use This Visualization'><input type='hidden' id='bg-show-less-text-61c98b0ad1df85092675409' value='Show Less'><input type='hidden' id='bg-icon-bg-color-61c98b0ad1df85092675409' value=''><div id='bg-showmore-pro-hidden-61c98b0ad1df85092675409' class='bg-showmore-closed ' ></p>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/license-this.jpg"><span><strong>Can I share this graphic?</strong><br />Yes. Visualizations are free to share and post in their original form across the web—even for publishers. Please link back to this page and attribute Visual Capitalist.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/share-this.jpg"><span><strong>When do I need a license?</strong><br />Licenses are required for some commercial uses, translations, or layout modifications. You can even whitelabel our visualizations. <a href="https://licensing.visualcapitalist.com/power-your-story-with-visual-capitalist/">Explore your options</a>.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/use-this-viz.jpg"><span><strong>Interested in this piece?</strong><br /><a href="https://licensing.visualcapitalist.com/product/profile-picture-nfts/">Click here</a> to license this visualization.</span></div>
+</div>
+<p></div></span><button id='bg-showmore-action-61c98b0ad1df85092675409' class='bg-showmore-plg-button bg-green-button bg-  '  style='color:#ffffff;;'>▼ Use This Visualization</button><style type='text/css'>a.bg-showmore-plg-link:hover,a.bg-showmore-plg-link:active,a.bg-showmore-plg-link:focus{color:#0071bb;}</style></center></p>
+</div><h2>A Visual Guide to Profile Picture NFTs</h2>
+<p>How do you represent yourself on social media? For most people it’s a selfie, a photo with their friends, or a picture of their pet—but what about a digitally-created character? </p>
+<p>Profile picture NFTs are pieces of digital artwork that people use to express themselves online. Each item is a depiction of a character’s face, and has a unique mix of attributes that gives it a sense of collectability.</p>
+<p>Like other <a href="https://www.visualcapitalist.com/what-are-nfts-mapping-the-nft-ecosystem/" rel="noopener" target="_blank">NFTs</a>, they’re secured on a blockchain and can be bought and sold for cryptocurrency. And while there’s nothing to stop you from screenshotting an NFT and using it for your own profile, the market for these items continues to grow. </p>
+<p>To learn more, this infographic explains how three well-known profile picture NFT collections were created. </p>
+<h2>CryptoPunks</h2>
+<p>CryptoPunks are commonly regarded as one of the first examples of NFTs. The collection consists of 10,000 unique “punks” and was released in 2017 by <strong>Larva Labs</strong>.</p>
+<p>One interesting fact is that these NFTs were originally given out for free—today, they are worth thousands or millions of dollars each. According to OpenSea, one of the largest NFT marketplaces, <a href="https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/3100" rel="noopener" target="_blank">CryptoPunk #3100</a> was sold for 4,200 Ethereum (roughly $7.6 million) in March 2021. </p>
+<p>A large component of #3100’s perceived value is its blue alien skin, which only eight other punks have. In other words, it’s incredibly rare. The following table shows the species distribution of the CryptoPunks collection. </p>
+
+<table id="tablepress-2053" class="tablepress tablepress-id-2053">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Species</th><th class="column-2">% Rarity</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">Human</td><td class="column-2">98.7%</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">Zombie</td><td class="column-2">0.88%</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Ape</td><td class="column-2">0.24%</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">Alien</td><td class="column-2">0.09%</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2053 from cache -->
+<p>In addition to species, each punk features a unique mix of facial accessories or “attributes”. Examples include a <a href="https://www.larvalabs.com/cryptopunks/search?query=%22Big+Beard%22" rel="noopener" target="_blank">big beard</a> (found in only 146 punks), and a <a href="https://www.larvalabs.com/cryptopunks/search?query=%22Big+Beard%22" rel="noopener" target="_blank">VR headset</a> (found in 332 punks). </p>
+<h2>Bored Ape Yacht Club</h2>
+<p>Next is the Bored Ape Yacht Club (BAYC), another collection of 10,000 unique profile picture NFTs. Unlike CryptoPunks, BAYC NFTs show both the head and torso of a character (in this case, an ape). </p>
+<p>This opens up many combinations of clothing items, facial features, and accessories. Altogether, there are seven categories of attributes: Background color, Clothes, Earring, Eyes, Fur, Hat, and Mouth. </p>
+<p>The following table lists some examples of BAYC attributes, and their % rarity. To explore further, visit the <a href="https://boredapeyachtclub.com/#/gallery" rel="noopener" target="_blank">BAYC gallery</a>. </p>
+
+<table id="tablepress-2054" class="tablepress tablepress-id-2054">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Attribute Category</th><th class="column-2">Attribute Name</th><th class="column-3">% Rarity</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">Fur</td><td class="column-2">Solid Gold</td><td class="column-3">0.05%</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">Fur</td><td class="column-2">White</td><td class="column-3">3.9%</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Hat</td><td class="column-2">King's Crown</td><td class="column-3">0.02%</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">Hat</td><td class="column-2">Stuntman Helmet</td><td class="column-3">1.6%</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2054 from cache -->
+<p>BAYC NFTs also grant access to members-only benefits. This includes access to a <a href="https://opensea.io/assets/0xd07dc4262bcdbf85190c01c996b4c06a461d2430/538193?embed=true" rel="noopener" target="_blank">collaborative graffiti board</a>, as well as other NFTs from spin-off collections like the Bored Ape Kennel Club (BAKC). As its name suggests, the BAKC is a collection of dogs, rather than apes. </p>
+<h2>Cool Cats NFT</h2>
+<p>The last collection is Cool Cats NFT, which again amounts to 10,000 images. Cool Cats were minted at a cost of 0.06 Ethereum each, or roughly $200. The act of “minting” an NFT is similar to when metal coins are entered into circulation. </p>
+<p>Each Cool Cat NFT is a depiction of a cartoon cat with a varying number of facial features, hats, and shirts. Altogether, there are over 300,000 possible options that could be included. </p>
+<p>This collection also features nine “hidden” cats which boast one-off features. <a href="https://opensea.io/assets/0x1a92f7381b9f03921564a437210bb9396471050c/500" rel="noopener" target="_blank">#500</a> is an upside down cat floating in a blue sky background, while <a href="https://opensea.io/assets/0x1a92f7381b9f03921564a437210bb9396471050c/2288" rel="noopener" target="_blank">#2288</a> is simply a skeleton.  </p>
+<h2>Building Your Identity in the Metaverse</h2>
+<p>A criticism of today’s social media is that there’s little room to express yourself.</p>
+<p>Think back, for a moment, to the days of MySpace. Users could spend hours customizing their profile page, adding music, art, and whatever else they felt was an expression of themselves. As the platform’s name implied, it was a space that belonged to you. </p>
+<p>The metaverse offers something similar. To take part in a virtual universe, you need an avatar—a digital manifestation of yourself. Avatars will be highly customizable and far less constrained by the limitations of the real world. </p>
+<p>If you’re having trouble imagining this, check out <a href="https://hello.vrchat.com/" rel="noopener" target="_blank">VR Chat</a>, a virtual reality game where players socialize as aliens, monsters, and other “interesting” beings. </p>
+<p>This may help to explain the recent craze around profile picture NFTs. When the metaverse arrives, these NFTs could become a user’s avatar. After all, who wouldn’t want to have blue alien skin? </p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/a-visual-guide-to-profile-picture-nfts/">A Visual Guide to Profile Picture NFTs</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.visualcapitalist.com/a-visual-guide-to-profile-picture-nfts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">144620</post-id>	</item>
+		<item>
+		<title>Where Do Your Christmas Decorations Come From?</title>
+		<link>https://www.visualcapitalist.com/where-do-your-christmas-decorations-come-from/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=where-do-your-christmas-decorations-come-from</link>
+					<comments>https://www.visualcapitalist.com/where-do-your-christmas-decorations-come-from/#respond</comments>
+		
+		<dc:creator><![CDATA[Raul Amoros]]></dc:creator>
+		<pubDate>Fri, 24 Dec 2021 15:17:12 +0000</pubDate>
+				<category><![CDATA[Culture]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[import]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[decorations]]></category>
+		<guid isPermaLink="false">https://www.visualcapitalist.com/?p=144387</guid>
+
+					<description><![CDATA[<p>Billions of dollars worth of Christmas decorations are exported around the world each year. Here are the countries that exports the most.</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/where-do-your-christmas-decorations-come-from/">Where Do Your Christmas Decorations Come From?</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="rss-image"><p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/Christmas-decoration-exports-by-country.gif" alt="Where Do Your Christmas Decorations Come From?" /></p>
+<p><center><span class="bg-showmore-enable-customized-display"><input type='hidden' bg_collapse_expand_pro='61c98b0ad39586077651888' value=61c98b0ad39586077651888><input type='hidden' id='bg-show-more-text-61c98b0ad39586077651888' value='▼ Use This Visualization'><input type='hidden' id='bg-show-less-text-61c98b0ad39586077651888' value='Show Less'><input type='hidden' id='bg-icon-bg-color-61c98b0ad39586077651888' value=''><div id='bg-showmore-pro-hidden-61c98b0ad39586077651888' class='bg-showmore-closed ' ></p>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/license-this.jpg"><span><strong>Can I share this graphic?</strong><br />Yes. Visualizations are free to share and post in their original form across the web—even for publishers. Please link back to this page and attribute Visual Capitalist.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/share-this.jpg"><span><strong>When do I need a license?</strong><br />Licenses are required for some commercial uses, translations, or layout modifications. You can even whitelabel our visualizations. <a href="https://licensing.visualcapitalist.com/power-your-story-with-visual-capitalist/">Explore your options</a>.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/use-this-viz.jpg"><span><strong>Interested in this piece?</strong><br /><a href="https://licensing.visualcapitalist.com/product/christmas-decorations/">Click here</a> to license this visualization.</span></div>
+</div>
+<p></div></span><button id='bg-showmore-action-61c98b0ad39586077651888' class='bg-showmore-plg-button bg-green-button bg-  '  style='color:#ffffff;;'>▼ Use This Visualization</button><style type='text/css'>a.bg-showmore-plg-link:hover,a.bg-showmore-plg-link:active,a.bg-showmore-plg-link:focus{color:#0071bb;}</style></center></p>
+</div><h2>The World’s Biggest Exporters of Christmas Decorations</h2>
+<p>Billions of dollars worth of Christmas decorations are exported around the world each year.</p>
+<p>And while they adorn many homes across the globe, you may be surprised to know that a majority of these decorations are manufactured in just a handful of countries.</p>
+<p>Using data from the <a href="https://comtrade.un.org/data/">UN Comtrade Database</a>, this festive visualization highlights the world&#8217;s top exporters of Christmas decor.</p>
+<h2>Ranked: Top 10 Exporters of Christmas Decorations</h2>
+<p>China accounts for <b>87%</b> of global Christmas decoration exports (excluding candles, electric lighting sets, and natural Christmas trees), with a total export value of <b>$6.62 billion</b> in 2020.</p>
+<p>Here are the top 10 countries by export volume:</p>
+
+<table id="tablepress-2033" class="tablepress tablepress-id-2033">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Rank</th><th class="column-2">Country</th><th class="column-3">Market Share<br />
+Year 2020</th><th class="column-4">Export value<br />
+Year 2020</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">1</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1f3.png" alt="🇨🇳" class="wp-smiley" style="height: 1em; max-height: 1em;" /> China</td><td class="column-3">87.61%</td><td class="column-4">$6,623,948,022</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">2</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f3-1f1f1.png" alt="🇳🇱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Netherlands</td><td class="column-3">3.95%</td><td class="column-4">$298,587,959</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">3</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f5-1f1f1.png" alt="🇵🇱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Poland</td><td class="column-3">0.91%</td><td class="column-4">$68,670,015</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">4</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1f3.png" alt="🇮🇳" class="wp-smiley" style="height: 1em; max-height: 1em;" /> India</td><td class="column-3">0.84%</td><td class="column-4">$63,605,927</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">5</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e9-1f1ea.png" alt="🇩🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Germany</td><td class="column-3">0.83%</td><td class="column-4">$63,035,762</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">6</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1fa-1f1f8.png" alt="🇺🇸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> United States</td><td class="column-3">0.77%</td><td class="column-4">$58,045,102</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">7</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ed-1f1f0.png" alt="🇭🇰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Hong Kong</td><td class="column-3">0.51%</td><td class="column-4">$38,344,945</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">8</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e7-1f1ea.png" alt="🇧🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Belgium</td><td class="column-3">0.43%</td><td class="column-4">$32,787,984</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">9</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f9-1f1ed.png" alt="🇹🇭" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Thailand</td><td class="column-3">0.43%</td><td class="column-4">$32,365,786</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">10</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ec-1f1e7.png" alt="🇬🇧" class="wp-smiley" style="height: 1em; max-height: 1em;" /> United Kingdom</td><td class="column-3">0.33%</td><td class="column-4">$24,580,583</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2033 from cache -->
+<p>China’s market share dwarfs its competitors. Netherlands comes a distant second, capturing only <b>3.95%</b> of the market, while Poland is third with just <b>0.91%</b>.</p>
+<p>Another interesting fact we can extract from the data is that the top 10 countries own a 96.91% share of the Christmas decoration export market, which leaves just 3.09% of the market to the other 185 countries around the globe.</p>
+<h2>The Other Side of the Coin: Imports</h2>
+<p>We&#8217;ve covered who the biggest exporters of Christmas decorations are, but this begs the question—which countries are importing all of this festive fare?</p>
+<p>Here are the top five countries by import volume:</p>
+
+<table id="tablepress-2042" class="tablepress tablepress-id-2042">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Rank</th><th class="column-2">Country</th><th class="column-3">Market Share<br />
+Year 2019</th><th class="column-4">Market Share<br />
+Year 2020</th><th class="column-5">Import value<br />
+Year 2020</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">1</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1fa-1f1f8.png" alt="🇺🇸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> United States</td><td class="column-3">58.17%</td><td class="column-4">57.34%</td><td class="column-5">$3,054,607,847</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">2</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ec-1f1e7.png" alt="🇬🇧" class="wp-smiley" style="height: 1em; max-height: 1em;" /> United Kingdom</td><td class="column-3">5.18%</td><td class="column-4">5.07%</td><td class="column-5">$270,152,835</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">3</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1e6.png" alt="🇨🇦" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Canada</td><td class="column-3">4.54%</td><td class="column-4">5.00%</td><td class="column-5">$266,304,196</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">4</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e9-1f1ea.png" alt="🇩🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Germany</td><td class="column-3">2.69%</td><td class="column-4">2.99%</td><td class="column-5">$159,401,785</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">5</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f3-1f1f1.png" alt="🇳🇱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Netherlands</td><td class="column-3">2.55%</td><td class="column-4">2.93%</td><td class="column-5">$156,000,611</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2042 from cache -->
+<p>The United States is by far the biggest importer of Christmas decorations, importing <b>57.34%</b> of the total market share of Christmas decorations with a total value of $3 billion.</p>
+<p>The top five importers have a market share of 73.33% with a total value of $3.9 billion.</p>
+<h2>Why Are Christmas Decorations More Expensive This Year?</h2>
+<p><a href="http://www.yw.gov.cn/col/col1229142414/index.html">Yiwu</a>, a Chinese city situated 175 miles southwest of Shanghai, is the world’s biggest hub for manufacturing Christmas decorations, accounting for <a href="https://www.bloomberg.com/news/articles/2021-10-31/troubles-in-china-s-christmas-town-mean-higher-holiday-prices">nearly 80%</a> of the Christmas products exported from China.</p>
+<p>Factories in Yiwu are suffering a shortage of raw materials which is causing an increase in production costs.</p>
+<p>On top of that, since mid-October, Yiwu, like many other cities, has been affected by China’s ongoing electricity shortage, which has forced manufacturers to install power generators or even stop their manufacturing activities altogether.</p>
+<p>As if that wasn’t enough, shipping from China has become <a href="https://qz.com/1967668/soaring-shipping-prices-from-china-are-wreaking-havoc-on-retail/">a lot more expensive</a> in 2021. Over the past year, it’s become <b>4x</b> more expensive to ship a standard container from China to Europe.</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/where-do-your-christmas-decorations-come-from/">Where Do Your Christmas Decorations Come From?</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.visualcapitalist.com/where-do-your-christmas-decorations-come-from/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">144387</post-id>	</item>
+		<item>
+		<title>What&#8217;s Faster, Nature or Machine?</title>
+		<link>https://www.visualcapitalist.com/whats-faster-nature-or-machine/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=whats-faster-nature-or-machine</link>
+					<comments>https://www.visualcapitalist.com/whats-faster-nature-or-machine/#respond</comments>
+		
+		<dc:creator><![CDATA[Marcus Lu]]></dc:creator>
+		<pubDate>Thu, 23 Dec 2021 22:47:40 +0000</pubDate>
+				<category><![CDATA[Datastream]]></category>
+		<category><![CDATA[Cars]]></category>
+		<category><![CDATA[animals]]></category>
+		<category><![CDATA[top speed]]></category>
+		<category><![CDATA[speed comparison]]></category>
+		<category><![CDATA[peregrine falcon]]></category>
+		<category><![CDATA[bugatti]]></category>
+		<category><![CDATA[chiron]]></category>
+		<category><![CDATA[fastest animal]]></category>
+		<category><![CDATA[fastest car]]></category>
+		<guid isPermaLink="false">https://www.visualcapitalist.com/?p=144269</guid>
+
+					<description><![CDATA[<p>Ever wondered if an animal could outrun a modern car? This infographic puts the top speed of the world's fastest animals into context. </p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/whats-faster-nature-or-machine/">What&#8217;s Faster, Nature or Machine?</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="rss-image"><p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/Top-Speed-Comparison-datastream.jpg" alt="What's Faster, Nature or Machine?"/></p>
+<p><center><span class="bg-showmore-enable-customized-display"><input type='hidden' bg_collapse_expand_pro='61c98b0ad6d875074791673' value=61c98b0ad6d875074791673><input type='hidden' id='bg-show-more-text-61c98b0ad6d875074791673' value='▼ Use This Visualization'><input type='hidden' id='bg-show-less-text-61c98b0ad6d875074791673' value='Show Less'><input type='hidden' id='bg-icon-bg-color-61c98b0ad6d875074791673' value=''><div id='bg-showmore-pro-hidden-61c98b0ad6d875074791673' class='bg-showmore-closed ' ></p>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/license-this.jpg"><span><strong>Can I share this graphic?</strong><br />Yes. Visualizations are free to share and post in their original form across the web—even for publishers. Please link back to this page and attribute Visual Capitalist.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/share-this.jpg"><span><strong>When do I need a license?</strong><br />Licenses are required for some commercial uses, translations, or layout modifications. You can even whitelabel our visualizations. <a href="https://licensing.visualcapitalist.com/power-your-story-with-visual-capitalist/">Explore your options</a>.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/use-this-viz.jpg"><span><strong>Interested in this piece?</strong><br /><a href="https://licensing.visualcapitalist.com/product/whats-faster-nature-or-machine/">Click here</a> to license this visualization.</span></div>
+</div>
+<p></div></span><button id='bg-showmore-action-61c98b0ad6d875074791673' class='bg-showmore-plg-button bg-green-button bg-  '  style='color:#ffffff;;'>▼ Use This Visualization</button><style type='text/css'>a.bg-showmore-plg-link:hover,a.bg-showmore-plg-link:active,a.bg-showmore-plg-link:focus{color:#0071bb;}</style></center></p>
+</div><div style="border:1px solid #8FA4A4;background-color:#F2F4F4;padding:1.2em">
+<h4>The Briefing</h4>
+<ul>
+<li>The race between animals and cars is surprisingly close</li>
+<li>The peregrine falcon is the world’s fastest animal, capable of speeds beyond many modern sports cars</li>
+</ul>
+</div>
+<div style="padding:1.2em">
+<h2>Comparing Top Speeds of Animals and Cars</h2>
+<p>Did you know that the world’s fastest animals can actually keep up with, or even beat most modern cars? </p>
+<p>In this graphic, we’ve visualized the top speeds of several animals and cars to show you how close the race really is. The data we used is also listed below in tabular format.</p>
+
+<table id="tablepress-2030" class="tablepress tablepress-id-2030">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Name</th><th class="column-2">Top Speed (mph) </th><th class="column-3">Top speed (km/h) </th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">Bugatti Chiron Super Sport 300+ (2019)</td><td class="column-2">304 mph</td><td class="column-3">489 km/h</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">Peregrine Falcon</td><td class="column-2">242 mph</td><td class="column-3">389 km/h</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Porsche 911 Turbo S (2021) </td><td class="column-2">205 mph</td><td class="column-3">330 km/h</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">Golden Eagle </td><td class="column-2">200 mph</td><td class="column-3">322 km/h</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">Chevrolet Corvette Stingray (2020) </td><td class="column-2">194 mph</td><td class="column-3">312 km/h</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">Honda Civic (2021) </td><td class="column-2">137 mph</td><td class="column-3">220 km/h</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">Toyota RAV4 (2021)</td><td class="column-2">120 mph</td><td class="column-3">193 km/h</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">Ford F-150 Raptor (2020) </td><td class="column-2">107 mph</td><td class="column-3">172 km/h</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">Mexican free-tailed bat</td><td class="column-2">101 mph</td><td class="column-3">163 km/h</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">Cheetah </td><td class="column-2">75 mph</td><td class="column-3">121 km/h</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">Sailfish</td><td class="column-2">68 mph</td><td class="column-3">109 km/h</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1">Honda Ruckus (2020) </td><td class="column-2">40 mph</td><td class="column-3">64 km/h</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2030 from cache -->
+<p>At the top of this list is the <a href="https://www.bugatti.com/models/chiron-models/chiron-super-sport-300/" rel="noopener" target="_blank">Bugatti Chiron Super Sport 300+</a>, the first production car to reach a top speed of over 300 mph (482 km/h). The Super Sport 300+ is a limited edition variant of the regular Chiron, and only 30 examples (with a price tag of $4 million) are being built for the entire world. </p>
+<p>At 300 mph, the Chiron’s specially designed tires rotate up to 4,100 times per minute, and are subjected to a centrifugal force of over <strong>5,000 G</strong>. Here’s another interesting fact: when the Chiron is driving at a constant top speed, its 22 gallon (100L) fuel tank will completely drain in less than 10 minutes. </p>
+<h2>What’s That in the Sky?</h2>
+<p>The peregrine falcon surpasses most sports cars by reaching a top speed of 242 mph (389 km/h) while diving. This feat was achieved in 2005 by a falcon named “Frightful”, and <a href="https://www.guinnessworldrecords.com/world-records/70929-fastest-bird-diving" rel="noopener" target="_blank">verified</a> by Guinness World Records.</p>
+<p>The peregrine falcon is found in nearly every corner of the world, and hunts other, medium-sized birds by dropping down on them from above. </p>
+<p>Further down the list is the Mexican free-tailed bat, which only weighs between 11 to 12 grams. For context, a wooden pencil weighs about 7 grams. These bats are considered the <a href="https://www.popularmechanics.com/science/animals/a23848/bat-100-mph/" rel="noopener" target="_blank">world’s fastest mammals</a>, and unlike the peregrine falcon, reach their top speed purely through wing power (without diving). </p>
+</div>
+<div style="border: 1px solid #8FA4A4; background-color: #dadada; padding: 1.2em;">
+<strong>Where does this data come from?</strong></p>
+<p style="font-size: 14px"><strong>Source</strong>: Britannica, Car and Driver, Guinness World Records, Honda</p>
+</div>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/whats-faster-nature-or-machine/">What&#8217;s Faster, Nature or Machine?</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.visualcapitalist.com/whats-faster-nature-or-machine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">144269</post-id>	</item>
+		<item>
+		<title>The Companies that Defined 2021</title>
+		<link>https://www.visualcapitalist.com/the-companies-that-defined-2021/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-companies-that-defined-2021</link>
+					<comments>https://www.visualcapitalist.com/the-companies-that-defined-2021/#respond</comments>
+		
+		<dc:creator><![CDATA[Nick Routley]]></dc:creator>
+		<pubDate>Thu, 23 Dec 2021 17:23:57 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[tesla]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[elon musk]]></category>
+		<category><![CDATA[netflix]]></category>
+		<category><![CDATA[coinbase]]></category>
+		<category><![CDATA[tiktok]]></category>
+		<category><![CDATA[Pfizer]]></category>
+		<category><![CDATA[Robinhood]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[OpenSea]]></category>
+		<category><![CDATA[influential companies]]></category>
+		<category><![CDATA[retail investors]]></category>
+		<category><![CDATA[2021 recap]]></category>
+		<guid isPermaLink="false">https://www.visualcapitalist.com/?p=144514</guid>
+
+					<description><![CDATA[<p>In 2021, a handful of companies dominated the conversation and influenced society in both positive and negative ways.</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/the-companies-that-defined-2021/">The Companies that Defined 2021</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="rss-image"><p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/companies-that-defined-2021-1.jpg" alt="The Companies that Defined 2021" /></p>
+</div><h2>The Companies that Defined 2021</h2>
+<p>Attention is an increasingly valuable form of currency in the Information Age.</p>
+<p>In 2021, a handful of companies stood out from the pack, dominating the conversation and influencing society in both positive and negative ways. After vigorous internal debate, here is Visual Capitalist&#8217;s list of companies that defined 2021:</p>
+<ul>
+<li>Robinhood</li>
+<li>Pfizer</li>
+<li>Coinbase</li>
+<li>Tesla</li>
+<li>TikTok</li>
+<li>Facebook/Meta</li>
+</ul>
+<p>We looked at a number of metrics to select these companies, including Google search and news volume, performance relative to competitors, industry-specific indicators, and more.</p>
+<p>Many of these are digital companies, and all have massive reach, scale, and influence. Interestingly, many of these companies also faced controversies along with their success, and were caught up in movements that were bigger than themselves.</p>
+<p>With this context in mind, let’s dive in.</p>
+<h2>Robinhood</h2>
+<p>Robinhood’s eventful year reached its peak when the stock trading app was caught in a frenzy involving retail traders, short sellers, and “<a href="https://www.visualcapitalist.com/the-crazy-world-of-stonks-explained/" rel="noopener" target="_blank">meme stonks</a>”. It did not take long for Robinhood to go from hero to villain in this story. As the Gamestop stock shot up past $400, trading was halted and position limits were initiated on the app.</p>
+<p>As well, Robinhood&#8217;s stated goal of democratizing finance came under scrutiny due to their pay-for-order-flow business model, where sensitive user trade activity data is sold to the highest bidder who then gets ahead of the trade, otherwise known as &#8220;front-running&#8221;.</p>
+<p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/robinhood-account-size-vs-competitors.jpg" alt="robinhood account size vs competitors" /></p>
+<p>Despite the controversy, Robinhood’s platform now has over 22 million users, many of whom are younger, first-time investors. While they have key attractions like zero commission trades, they were also accused of gamifying investing with features like confetti shooting across the screen after a trade is made (a feature that was removed after media criticism).</p>
+<p>The company frequently made front page financial news in early 2021, and while the often negative press didn’t get in the way of their IPO—which commenced in late July—it has affected investor sentiment. Since their 52-week high of $70 per share in August, the stock has fallen some 70% towards the $18 range.</p>
+<p>Furthermore, the SEC is rumored to be launching an investigation into them. With these headwinds, investing <em>on</em> Robinhood has probably fared better so far than investing <em>in</em> Robinhood.</p>
+<h2>Pfizer</h2>
+<p>Perhaps there was no bigger story in 2021 than COVID-19 vaccines.</p>
+<p>Early in the year, the race to secure vaccines was on. Wealthy countries scrambled to buy stock and roll out widespread vaccination programs ahead of spring. </p>
+<p>And the companies that managed to produce efficient vaccines saw the biggest benefits, like pharmaceutical giant Pfizer. The company’s COVID-19 vaccine, made in partnership with German firm <strong>BioNTech</strong>, ended up becoming the world’s most-preferred vaccine to fight the pandemic.</p>
+<p><iframe src="https://ourworldindata.org/grapher/covid-vaccine-doses-by-manufacturer?country=~European+Union" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe></p>
+<p>The company is forecasting revenue of <a href="https://www.cnbc.com/2021/11/02/pfizer-raises-covid-vaccine-sales-forecast-to-36-billion-.html" rel="noopener" target="_blank">$36 billion</a> from its vaccine this year.</p>
+<p>Competing vaccines from <strong>Moderna</strong> and <strong>AstraZeneca</strong> also saw their parent companies rise in both market cap and newsworthiness. All of the involved pharma companies have also faced constant scrutiny, with many countries in the world struggling to secure COVID-19 vaccines, and others dealing with vaccine hesitancy.</p>
+<p>As the pandemic continues with the Omicron variant quickly spreading around the globe, Pfizer and its competitors will continue to be impactful into the new year. The company announced a COVID-19 antiviral pill that is planned to be released in the near future, and more effective vaccines and boosters against other variants are still a hot commodity.</p>
+<h2>Coinbase</h2>
+<p>2021 was a pivotal year for cryptocurrency. Prices reached new highs, and institutions and retail investors alike poured into the market.</p>
+<p>With its user-friendly app and focus on security, Coinbase was well positioned to benefit from this surge in interest. The exchange started off the year by more than doubling its transacting user base as Bitcoin prices shot to new heights.</p>
+<p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/coinbase-transacting-users-2021.jpg" alt="coinbase transacting users 2021" /></p>
+<p>It&#8217;s easy to underestimate the influence of the company&#8217;s IPO—especially as its share price slid as the crypto market cooled off—but the exchange&#8217;s very entry into the public markets was a huge boost in legitimacy for crypto, paving the way for similar companies to IPO in the future.</p>
+<h2>Tesla</h2>
+<p>Nobody captures attention and creates controversy quite like Tesla’s CEO, <strong>Elon Musk</strong>. </p>
+<p>Most of Tesla’s actions are tied closely to the famous entrepreneur, who’s known for his brazen online presence. Musk’s social media persona is so strong, one tweet can send Tesla’s stock <a href="https://www.bbc.co.uk/news/business-52504187" rel="noopener" target="_blank">plummeting</a>, like it did last year after Musk told Twitter that “Tesla’s stock is too high imo.”</p>
+<p>While naysayers are quick to criticize Tesla and Musk, the company has some impressive numbers to back up its hype. 2020 was already a ridiculous year for Tesla—its stock surged by nearly 700%, and with a valuation of $630 billion, it became one of the most valuable companies in the world. </p>
+<p>This momentum carried over into 2021. This year, revenue rose each quarter, and in October, the company’s market value surpassed $1 trillion.</p>
+<p>Tesla was also intertwined within other societal narratives over the course of the year. The automaker&#8217;s move from California to Texas was part of a larger conversation about the “Bay Area exodus”, as jurisdictions in Texas and Florida looked to steal Silicon Valley&#8217;s thunder.</p>
+<p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/elon-musk-twitter-poll.jpg" alt="elon musk twitter poll" /></p>
+<p>Musk’s Tesla stock sales generated a lot of buzz in Q4 as well. </p>
+<p>Seemingly in response to criticism over inequality and tax avoidance, Musk ran a Twitter poll to decide whether or not to sell a significant portion of his Tesla holdings. After a majority &#8220;yes&#8221; vote, the Tesla CEO now appears to have <a href="https://www.marketwatch.com/story/elon-musk-says-hes-sold-enough-tesla-stock-to-satisfy-his-10-goal-11640149728" rel="noopener" target="_blank">sold off</a> enough stock to hold up his end of the bargain.</p>
+<h2>TikTok</h2>
+<p>TikTok was already popular in 2020, but this year truly solidified its status as a cultural phenomenon. </p>
+<p>The app topped a billion users in 2021, just five years after its launch in 2016. For context, it took Facebook and Instagram nearly eight years to hit that same milestone.</p>
+<p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/tiktok-user-growth.jpg" alt="tiktok user growth" /></p>
+<p>What’s so appealing about TikTok? Experts have <a href="https://www.forbes.com/sites/tomtaulli/2020/01/31/tiktok-why-the-enormous-success/?sh=4546743a65d1" rel="noopener" target="_blank">many theories</a>, but in an interview with Forbes, John Holdridge, GM of Fullscreen, puts its simply: &#8220;TikTok’s success can be attributed to how it flips what we think of as social media on its head, while at the same time returning us all to roots of the original appeal–the ability to go viral.”</p>
+<p>TikTok’s short-style video format has become so popular that it’s inspired a slew of copycat apps, especially in regions like India where TikTok <a href="https://www.socialmediatoday.com/news/indian-government-bans-59-chinese-apps-including-tiktok-amid-ongoing-host/580744/" rel="noopener" target="_blank">is banned</a>. </p>
+<p>Even established companies like Meta have tried to mimic TikTok’s success. In 2020, Instagram launched “reels,” its own short-form video feature where users can create and share 30 second videos. But Instagram reels failed to overtake TikTok’s growth—instead, reels has become a place for users to share and promote their TikTok videos.</p>
+<h2>Facebook/Meta</h2>
+<p>Facebook frequently finds itself in the news, given its status as the world’s largest social network. In 2021, however, it was for two different reasons. </p>
+<p>The first was the U.S. Capitol Riot on January 6, 2021. In the aftermath of this event, many blamed Facebook for not doing enough to mitigate the negative effects of its platform—mainly polarization, conspiracy theories, and hate speech. </p>
+<p>The controversy reached its peak in September 2021, when internal files leaked by whistleblower Frances Haugen were published. These documents exposed Facebook’s <a href="https://www.nbcnews.com/tech/tech-news/facebook-whistleblower-documents-detail-deep-look-facebook-rcna3580" rel="noopener" target="_blank">internal struggles</a> with combating misinformation, as well as employee dissent.</p>
+<p>Ultimately, Facebook weathered the storm and opted to shed its baggage with a <a href="https://www.visualcapitalist.com/saying-bye-to-facebook-why-companies-change-their-name/" rel="noopener" target="_blank">new name</a>. Not only does this help the company disassociate from its previous scandals, it also lines up with Mark Zuckerberg’s ambitions of pioneering the <strong>metaverse</strong>. </p>
+<p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/facebook-metaverse-1.jpg" alt="Facebook metaverse" /></p>
+<p>Following the announcement, &#8220;metaverse&#8221; exploded overnight and became one of the hottest topics of 2021. The word “Meta” has also become incredibly valuable—Meta (the company) recently completed a <a href="https://www.reuters.com/business/media-telecom/exclusive-facebook-owner-is-behind-60-mln-deal-meta-name-rights-2021-12-13/" rel="noopener" target="_blank">$60 million deal</a> to acquire the trademark assets of Meta Financial Group, a regional U.S. bank. </p>
+<h2>Honorable Mentions</h2>
+<p>While the companies highlighted above were undeniably influential in 2021, any list like this is bound to be subjective and open to debate. Here is a shortlist of other companies that we considered for the Companies that Defined 2021 list:</p>
+<h4>Reddit</h4>
+<p>The surge in investment that propelled Robinhood and Coinbase to new heights was partially fueled by communities on Reddit. One of the most <a href="https://www.youtube.com/watch?v=ukXQGBpXaVM" rel="noopener" target="_blank">fascinating moments</a> of the year came when Reddit user u/deepfuckingvalue appeared before the House Committee on Financial Services proclaiming, &#8220;I am not a cat&#8221; and &#8220;I like the stock&#8221;.</p>
+<p>On the business front, the &#8220;Front Page of the Internet&#8221; saw double-digit user growth during the pandemic, and now has a valuation of $10 billion after a hefty <a href="https://www.wsj.com/articles/reddit-taps-investor-appetite-for-startups-further-raising-valuation-11628766000" rel="noopener" target="_blank">round of funding</a>.</p>
+<h4>OpenSea</h4>
+<p>NFTs had a Cambrian explosion alongside the crypto bull run, with OpenSea emerging as the dominant marketplace this past year. In the second half of 2021, OpenSea made up 95% of <a href="https://www.theblockcrypto.com/data/nft-non-fungible-tokens/marketplaces/nft-marketplace-monthly-volume" rel="noopener" target="_blank">NFT trading volume</a> on major marketplaces, and has transacted $1.42B in volume in December so far.</p>
+<p>While it seemed OpenSea was planning an IPO after their CFO Brian Roberts <a href="https://www.bloomberg.com/news/articles/2021-12-06/former-lyft-cfo-roberts-joins-crypto-startup-opensea?sref=IIP4JEyu" rel="noopener" target="_blank">commented</a> how “you’d be foolish not to think about it [OpenSea] going public,” user backlash resulted in Roberts later <a href="https://twitter.com/BKRoberts/status/1468399263336083458" rel="noopener" target="_blank">tweeting</a> that the company is not actively planning an IPO. Whether or not OpenSea does set sail onto the public markets, they&#8217;ll soon have some serious competition from Coinbase’s own NFT marketplace currently in the works.</p>
+<h4>Netflix</h4>
+<p>Despite intense competition from rival streaming platforms, Netflix will finish the year on top once again. The company has a number of impressive tallies in the win column this year.</p>
+<p>First, <strong>Squid Game</strong> was a cultural phenomenon, quickly becoming the streaming service&#8217;s number one show, and also the world&#8217;s most Googled TV show of 2021.</p>
+<p>Next, Netflix&#8217;s <strong>Red Notice</strong> is likely the most watched new movie of 2021, logging well over 300 million hours of viewing time. Not bad, considering its tepid score of 36% on Rotten Tomatoes. It remains to be seen whether deep-pocketed competitors like Disney+ are able to dethrone Netflix, but for now, the company is as culturally relevant as ever.</p>
+<h4>SpaceX</h4>
+<p>The fact that Elon Musk has two companies in this conversation points to why he was named Time&#8217;s Most Influential Person for 2021. </p>
+<p>SpaceX has made launching rockets drastically cheaper in recent years, which helps explain its massive reported valuation of $200 billion. The company, which is the top commercial launch provider in the U.S., will round out the year with 31 launches.</p>
+<p>Which companies would you add to this list?</p>
+<div style="margin-top:15px; border: 1px solid #8FA4A4; background-color: #dadada; padding: 1.2em;">
+<strong>The following members of the VC editorial staff contributed to this article:</strong> <span style="font-size: 14px">Nick Routley, Carmen Ang, Niccolo Conte, Marcus Lu, Aran Ali, and Omri Wallach.</span>
+</div>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/the-companies-that-defined-2021/">The Companies that Defined 2021</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.visualcapitalist.com/the-companies-that-defined-2021/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">144514</post-id>	</item>
+		<item>
+		<title>Visualizing the $94 Trillion World Economy in One Chart</title>
+		<link>https://www.visualcapitalist.com/visualizing-the-94-trillion-world-economy-in-one-chart/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=visualizing-the-94-trillion-world-economy-in-one-chart</link>
+					<comments>https://www.visualcapitalist.com/visualizing-the-94-trillion-world-economy-in-one-chart/#respond</comments>
+		
+		<dc:creator><![CDATA[Dorothy Neufeld]]></dc:creator>
+		<pubDate>Wed, 22 Dec 2021 18:42:37 +0000</pubDate>
+				<category><![CDATA[Money]]></category>
+		<category><![CDATA[Economy]]></category>
+		<category><![CDATA[us gdp]]></category>
+		<category><![CDATA[featured]]></category>
+		<category><![CDATA[china economic growth]]></category>
+		<category><![CDATA[GDP by country]]></category>
+		<category><![CDATA[gdp in 2021]]></category>
+		<category><![CDATA[us biggest industries]]></category>
+		<guid isPermaLink="false">https://www.visualcapitalist.com/?p=143216</guid>
+
+					<description><![CDATA[<p>Which countries and regions contribute the most to the world economy? In this infographic, we break down all $94 trillion of global GDP by country.</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/visualizing-the-94-trillion-world-economy-in-one-chart/">Visualizing the $94 Trillion World Economy in One Chart</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="rss-image"><p style="font-size:15px; margin-bottom:10px;"><em>View the <a href="https://www.visualcapitalist.com/wp-content/uploads/2021/12/Global-Economy-GDP-by-Country-2021.html">expanded version</a> of this infographic to see all countries.</em></a></p>
+<p><a href="https://www.visualcapitalist.com/wp-content/uploads/2021/12/Global-Economy-GDP-by-Country-2021.html"><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/Global-GDP-by-Country-2021-V15-Mobile-1.jpg" alt="Global GDP by Country 2021" /></a></p>
+<p><center><span class="bg-showmore-enable-customized-display"><input type='hidden' bg_collapse_expand_pro='61c98b0ad9aa23074495210' value=61c98b0ad9aa23074495210><input type='hidden' id='bg-show-more-text-61c98b0ad9aa23074495210' value='▼ Use This Visualization'><input type='hidden' id='bg-show-less-text-61c98b0ad9aa23074495210' value='Show Less'><input type='hidden' id='bg-icon-bg-color-61c98b0ad9aa23074495210' value=''><div id='bg-showmore-pro-hidden-61c98b0ad9aa23074495210' class='bg-showmore-closed ' ></p>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/license-this.jpg"><span><strong>Can I share this graphic?</strong><br />Yes. Visualizations are free to share and post in their original form across the web—even for publishers. Please link back to this page and attribute Visual Capitalist.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/share-this.jpg"><span><strong>When do I need a license?</strong><br />Licenses are required for some commercial uses, translations, or layout modifications. You can even whitelabel our visualizations. <a href="https://licensing.visualcapitalist.com/power-your-story-with-visual-capitalist/">Explore your options</a>.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/use-this-viz.jpg"><span><strong>Interested in this piece?</strong><br /><a href="https://licensing.visualcapitalist.com/product/94-trillion-world-economy-one-chart/">Click here</a> to license this visualization.</span></div>
+</div>
+<p></div></span><button id='bg-showmore-action-61c98b0ad9aa23074495210' class='bg-showmore-plg-button bg-green-button bg-  '  style='color:#ffffff;;'>▼ Use This Visualization</button><style type='text/css'>a.bg-showmore-plg-link:hover,a.bg-showmore-plg-link:active,a.bg-showmore-plg-link:focus{color:#0071bb;}</style></center></p>
+</div><h2>The $94 Trillion World Economy in One Chart</h2>
+<p><em>View the <a href="https://www.visualcapitalist.com/wp-content/uploads/2021/12/Global-Economy-GDP-by-Country-2021.html">expanded version</a> of this infographic.</a></em></p>
+<p>Just four countries—the U.S., China, Japan, and Germany—make up over <strong>half</strong> of the world&#8217;s economic output by gross domestic product (GDP) in nominal terms. In fact, the GDP of the U.S. alone is greater than the combined GDP of <strong>170 countries</strong>.</p>
+<p>How do the different economies of the world compare? In this visualization we look at GDP by country in 2021, using data and estimates from the International Monetary Fund (<a href="https://www.imf.org/en/Publications/WEO/weo-database/2021/October/weo-report?c=512,914,612,171,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616,223,516,918,748,618,624,522,622,156,626,628,228,924,233,632,636,634,238,662,960,423,935,128,611,321,243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268,532,944,176,534,536,429,433,178,436,136,343,158,439,916,664,826,542,967,443,917,544,941,446,666,668,672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138,196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,716,456,722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578,537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698,&#038;s=NGDPD,&#038;sy=2021&#038;ey=2021&#038;ssm=0&#038;scsm=1&#038;scc=0&#038;ssd=1&#038;ssc=0&#038;sic=0&#038;sort=country&#038;ds=.&#038;br=1" rel="noopener" target="_blank">IMF</a>).</p>
+<h3>An Overview of GDP</h3>
+<p>GDP serves as a broad indicator for a country’s economic output. It measures the total market value of final goods and services produced in a country in a specific timeframe, such as a quarter or year. In addition, GDP also takes into consideration the output of services provided by the government, such as money spent on <a href="https://www.visualcapitalist.com/u-s-military-spending-vs-other-top-countries/" rel="noopener" target="_blank">defense</a>, healthcare, or education.</p>
+<p>Generally speaking, when GDP is increasing in a country, it is a sign of greater economic activity that benefits workers and businesses (while the reverse is true for a decline).</p>
+<h2>The World Economy: Top 50 Countries</h2>
+<p>Who are the biggest contributors to the global economy? Here is the ranking of the 50 largest countries by GDP in 2021:</p>
+
+<table id="tablepress-1971" class="tablepress tablepress-id-1971">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Rank</th><th class="column-2">Country</th><th class="column-3">GDP ($T)</th><th class="column-4">% of Global GDP</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">1</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1fa-1f1f8.png" alt="🇺🇸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> U.S.</td><td class="column-3">$22.9</td><td class="column-4">24.4%</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">2</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1f3.png" alt="🇨🇳" class="wp-smiley" style="height: 1em; max-height: 1em;" /> China</td><td class="column-3">$16.9</td><td class="column-4">17.9%</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">3</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ef-1f1f5.png" alt="🇯🇵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Japan</td><td class="column-3">$5.1</td><td class="column-4">5.4%</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">4</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e9-1f1ea.png" alt="🇩🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Germany</td><td class="column-3">$4.2</td><td class="column-4">4.5%</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">5</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ec-1f1e7.png" alt="🇬🇧" class="wp-smiley" style="height: 1em; max-height: 1em;" /> UK</td><td class="column-3">$3.1</td><td class="column-4">3.3%</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">6</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1f3.png" alt="🇮🇳" class="wp-smiley" style="height: 1em; max-height: 1em;" /> India</td><td class="column-3">$2.9</td><td class="column-4">3.1%</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">7</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1eb-1f1f7.png" alt="🇫🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> France</td><td class="column-3">$2.9</td><td class="column-4">3.1%</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">8</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1f9.png" alt="🇮🇹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Italy</td><td class="column-3">$2.1</td><td class="column-4">2.3%</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">9</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1e6.png" alt="🇨🇦" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Canada</td><td class="column-3">$2.0</td><td class="column-4">2.1%</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">10</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f0-1f1f7.png" alt="🇰🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Korea</td><td class="column-3">$1.8</td><td class="column-4">1.9%</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">11</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f7-1f1fa.png" alt="🇷🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Russia</td><td class="column-3">$1.6</td><td class="column-4">1.7%</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1">12</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e7-1f1f7.png" alt="🇧🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Brazil</td><td class="column-3">$1.6</td><td class="column-4">1.7%</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1">13</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e6-1f1fa.png" alt="🇦🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Australia</td><td class="column-3">$1.6</td><td class="column-4">1.7%</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1">14</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ea-1f1f8.png" alt="🇪🇸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Spain</td><td class="column-3">$1.4</td><td class="column-4">1.5%</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1">15</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f2-1f1fd.png" alt="🇲🇽" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Mexico</td><td class="column-3">$1.3</td><td class="column-4">1.4%</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1">16</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1e9.png" alt="🇮🇩" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Indonesia</td><td class="column-3">$1.2</td><td class="column-4">1.2%</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1">17</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1f7.png" alt="🇮🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Iran</td><td class="column-3">$1.1</td><td class="column-4">1.1%</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1">18</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f3-1f1f1.png" alt="🇳🇱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Netherlands</td><td class="column-3">$1.0</td><td class="column-4">1.1%</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1">19</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1e6.png" alt="🇸🇦" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Saudi Arabia</td><td class="column-3">$0.8</td><td class="column-4">0.9%</td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1">20</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1ed.png" alt="🇨🇭" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Switzerland</td><td class="column-3">$0.8</td><td class="column-4">0.9%</td>
+</tr>
+<tr class="row-22 even">
+	<td class="column-1">21</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f9-1f1f7.png" alt="🇹🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Turkey</td><td class="column-3">$0.8</td><td class="column-4">0.8%</td>
+</tr>
+<tr class="row-23 odd">
+	<td class="column-1">22</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f9-1f1fc.png" alt="🇹🇼" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Taiwan </td><td class="column-3">$0.8</td><td class="column-4">0.8%</td>
+</tr>
+<tr class="row-24 even">
+	<td class="column-1">23</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f5-1f1f1.png" alt="🇵🇱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Poland</td><td class="column-3">$0.7</td><td class="column-4">0.7%</td>
+</tr>
+<tr class="row-25 odd">
+	<td class="column-1">24</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1ea.png" alt="🇸🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Sweden</td><td class="column-3">$0.6</td><td class="column-4">0.7%</td>
+</tr>
+<tr class="row-26 even">
+	<td class="column-1">25</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e7-1f1ea.png" alt="🇧🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Belgium</td><td class="column-3">$0.6</td><td class="column-4">0.6%</td>
+</tr>
+<tr class="row-27 odd">
+	<td class="column-1">26</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f9-1f1ed.png" alt="🇹🇭" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Thailand</td><td class="column-3">$0.5</td><td class="column-4">0.6%</td>
+</tr>
+<tr class="row-28 even">
+	<td class="column-1">27</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1ea.png" alt="🇮🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Ireland</td><td class="column-3">$0.5</td><td class="column-4">0.5%</td>
+</tr>
+<tr class="row-29 odd">
+	<td class="column-1">28</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e6-1f1f9.png" alt="🇦🇹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Austria</td><td class="column-3">$0.5</td><td class="column-4">0.5%</td>
+</tr>
+<tr class="row-30 even">
+	<td class="column-1">29</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f3-1f1ec.png" alt="🇳🇬" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Nigeria</td><td class="column-3">$0.5</td><td class="column-4">0.5%</td>
+</tr>
+<tr class="row-31 odd">
+	<td class="column-1">30</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1f1.png" alt="🇮🇱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Israel</td><td class="column-3">$0.5</td><td class="column-4">0.5%</td>
+</tr>
+<tr class="row-32 even">
+	<td class="column-1">31</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e6-1f1f7.png" alt="🇦🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Argentina</td><td class="column-3">$0.5</td><td class="column-4">0.5%</td>
+</tr>
+<tr class="row-33 odd">
+	<td class="column-1">32</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f3-1f1f4.png" alt="🇳🇴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Norway</td><td class="column-3">$0.4</td><td class="column-4">0.5%</td>
+</tr>
+<tr class="row-34 even">
+	<td class="column-1">33</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ff-1f1e6.png" alt="🇿🇦" class="wp-smiley" style="height: 1em; max-height: 1em;" /> South Africa</td><td class="column-3">$0.4</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-35 odd">
+	<td class="column-1">34</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e6-1f1ea.png" alt="🇦🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> UAE</td><td class="column-3">$0.4</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-36 even">
+	<td class="column-1">35</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e9-1f1f0.png" alt="🇩🇰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Denmark</td><td class="column-3">$0.4</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-37 odd">
+	<td class="column-1">36</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ea-1f1ec.png" alt="🇪🇬" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Egypt</td><td class="column-3">$0.4</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-38 even">
+	<td class="column-1">37</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f5-1f1ed.png" alt="🇵🇭" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Philippines</td><td class="column-3">$0.4</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-39 odd">
+	<td class="column-1">38</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1ec.png" alt="🇸🇬" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Singapore</td><td class="column-3">$0.4</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-40 even">
+	<td class="column-1">39</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f2-1f1fe.png" alt="🇲🇾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Malaysia</td><td class="column-3">$0.4</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-41 odd">
+	<td class="column-1">40</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ed-1f1f0.png" alt="🇭🇰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Hong Kong SAR</td><td class="column-3">$0.4</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-42 even">
+	<td class="column-1">41</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1fb-1f1f3.png" alt="🇻🇳" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Vietnam</td><td class="column-3">$0.4</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-43 odd">
+	<td class="column-1">42</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e7-1f1e9.png" alt="🇧🇩" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Bangladesh</td><td class="column-3">$0.4</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-44 even">
+	<td class="column-1">43</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1f1.png" alt="🇨🇱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Chile</td><td class="column-3">$0.3</td><td class="column-4">0.4%</td>
+</tr>
+<tr class="row-45 odd">
+	<td class="column-1">44</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1f4.png" alt="🇨🇴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Colombia</td><td class="column-3">$0.3</td><td class="column-4">0.3%</td>
+</tr>
+<tr class="row-46 even">
+	<td class="column-1">45</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1eb-1f1ee.png" alt="🇫🇮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Finland</td><td class="column-3">$0.3</td><td class="column-4">0.3%</td>
+</tr>
+<tr class="row-47 odd">
+	<td class="column-1">46</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f7-1f1f4.png" alt="🇷🇴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Romania</td><td class="column-3">$0.3</td><td class="column-4">0.3%</td>
+</tr>
+<tr class="row-48 even">
+	<td class="column-1">47</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1ff.png" alt="🇨🇿" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Czech Republic</td><td class="column-3">$0.3</td><td class="column-4">0.3%</td>
+</tr>
+<tr class="row-49 odd">
+	<td class="column-1">48</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f5-1f1f9.png" alt="🇵🇹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Portugal</td><td class="column-3">$0.3</td><td class="column-4">0.3%</td>
+</tr>
+<tr class="row-50 even">
+	<td class="column-1">49</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f5-1f1f0.png" alt="🇵🇰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Pakistan</td><td class="column-3">$0.3*</td><td class="column-4">0.3%</td>
+</tr>
+<tr class="row-51 odd">
+	<td class="column-1">50</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f3-1f1ff.png" alt="🇳🇿" class="wp-smiley" style="height: 1em; max-height: 1em;" /> New Zealand</td><td class="column-3">$0.2</td><td class="column-4">0.3%</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-1971 from cache -->
+<p style="margin-top:0; font-size:14px;"><em>*2020 GDP (latest available) used where IMF estimates for 2021 were unavailable.</em></p>
+<p>At <strong>$22.9 trillion</strong>, the U.S. GDP accounts for roughly 25% of the global economy, a share that has actually changed significantly over the <a href="https://www.visualcapitalist.com/u-s-share-of-global-economy-over-time/">last 60 years</a>. The finance, insurance, and real estate ($4.7 trillion) industries add the most to the country’s economy, followed by professional and business services ($2.7 trillion) and government ($2.6 trillion).</p>
+<p>China’s <a href="https://www.visualcapitalist.com/chinas-economy-40-years-of-soaring-exports/" rel="noopener" target="_blank">economy</a> is second in nominal terms, hovering at near <strong>$17 trillion</strong> in GDP. It remains the largest manufacturer worldwide based on output with extensive production of steel, electronics, and robotics, among others. </p>
+<p>The largest economy in Europe is Germany, which exports roughly <strong>20%</strong> of the world’s motor vehicles. In 2019, overall trade equaled nearly 90% of the country’s GDP.</p>
+<h2>The World Economy: 50 Smallest Countries</h2>
+<p>On the other end of the spectrum are the world&#8217;s smallest economies by GDP, primarily developing and island nations.</p>
+<p>With a GDP of <strong>$70 million</strong>, Tuvalu is the smallest economy in the world. Situated between Hawaii and Australia, the largest industry of this volcanic archipelago relies on territorial fishing rights. </p>
+<p>In addition, the country earns significant revenue from its &#8220;.tv&#8221; web domain. Between 2011 and 2019, it earned <strong>$5 million</strong> annually from companies—including Amazon-owned <a href="https://www.washingtonpost.com/video-games/2019/12/23/tuvalu-is-tiny-island-nation-people-its-cashing-thanks-twitch/" rel="noopener" target="_blank">Twitch</a> to license the Twitch.tv domain name—equivalent to roughly 7% of the country&#8217;s GDP.</p>
+
+<table id="tablepress-1974" class="tablepress tablepress-id-1974">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Countries</th><th class="column-2">Region</th><th class="column-3">GDP (B)</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f9-1f1fb.png" alt="🇹🇻" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Tuvalu</td><td class="column-2">Oceania</td><td class="column-3">$0.07</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f3-1f1f7.png" alt="🇳🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Nauru</td><td class="column-2">Oceania</td><td class="column-3">$0.1</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f5-1f1fc.png" alt="🇵🇼" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Palau</td><td class="column-2">Oceania</td><td class="column-3">$0.2</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f0-1f1ee.png" alt="🇰🇮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Kiribati</td><td class="column-2">Oceania</td><td class="column-3">$0.2</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f2-1f1ed.png" alt="🇲🇭" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Marshall Islands</td><td class="column-2">Oceania</td><td class="column-3">$0.2</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1eb-1f1f2.png" alt="🇫🇲" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Micronesia</td><td class="column-2">Oceania</td><td class="column-3">$0.4</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1f0.png" alt="🇨🇰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Cook Islands</td><td class="column-2">Oceania</td><td class="column-3">$0.4*</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f9-1f1f4.png" alt="🇹🇴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Tonga</td><td class="column-2">Oceania</td><td class="column-3">$0.5</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1f9.png" alt="🇸🇹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> São Tomé and Príncipe</td><td class="column-2">Central America</td><td class="column-3">$0.5</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e9-1f1f2.png" alt="🇩🇲" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Dominica</td><td class="column-2">Caribbean</td><td class="column-3">$0.6</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1fb-1f1e8.png" alt="🇻🇨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> St. Vincent and the Grenadines</td><td class="column-2">Caribbean</td><td class="column-3">$0.8</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1fc-1f1f8.png" alt="🇼🇸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Samoa</td><td class="column-2">Oceania</td><td class="column-3">$0.8</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f0-1f1f3.png" alt="🇰🇳" class="wp-smiley" style="height: 1em; max-height: 1em;" /> St. Kitts and Nevis</td><td class="column-2">Caribbean</td><td class="column-3">$1.0</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1fb-1f1fa.png" alt="🇻🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Vanuatu</td><td class="column-2">Oceania</td><td class="column-3">$1.0</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ec-1f1e9.png" alt="🇬🇩" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Grenada</td><td class="column-2">Caribbean</td><td class="column-3">$1.1</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f0-1f1f2.png" alt="🇰🇲" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Comoros</td><td class="column-2">Africa</td><td class="column-3">$1.3</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1e8.png" alt="🇸🇨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Seychelles</td><td class="column-2">Africa</td><td class="column-3">$1.3</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e6-1f1ec.png" alt="🇦🇬" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Antigua and Barbuda</td><td class="column-2">Caribbean</td><td class="column-3">$1.4</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ec-1f1fc.png" alt="🇬🇼" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Guinea-Bissau</td><td class="column-2">Africa</td><td class="column-3">$1.6</td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1e7.png" alt="🇸🇧" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Solomon Islands</td><td class="column-2">Oceania</td><td class="column-3">$1.7</td>
+</tr>
+<tr class="row-22 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f9-1f1f1.png" alt="🇹🇱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Timor-Leste</td><td class="column-2">Asia</td><td class="column-3">$1.7</td>
+</tr>
+<tr class="row-23 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f1-1f1e8.png" alt="🇱🇨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> St. Lucia</td><td class="column-2">Caribbean</td><td class="column-3">$1.7</td>
+</tr>
+<tr class="row-24 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1f2.png" alt="🇸🇲" class="wp-smiley" style="height: 1em; max-height: 1em;" /> San Marino</td><td class="column-2">Europe</td><td class="column-3">$1.7</td>
+</tr>
+<tr class="row-25 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1fb.png" alt="🇨🇻" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Cabo Verde</td><td class="column-2">Africa</td><td class="column-3">$1.9</td>
+</tr>
+<tr class="row-26 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e7-1f1ff.png" alt="🇧🇿" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Belize</td><td class="column-2">Central America</td><td class="column-3">$1.9</td>
+</tr>
+<tr class="row-27 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ec-1f1f2.png" alt="🇬🇲" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Gambia</td><td class="column-2">Africa</td><td class="column-3">$2.0</td>
+</tr>
+<tr class="row-28 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ea-1f1f7.png" alt="🇪🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Eritrea</td><td class="column-2">Africa</td><td class="column-3">$2.3</td>
+</tr>
+<tr class="row-29 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f1-1f1f8.png" alt="🇱🇸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Lesotho</td><td class="column-2">Africa</td><td class="column-3">$2.5</td>
+</tr>
+<tr class="row-30 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e7-1f1f9.png" alt="🇧🇹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Bhutan</td><td class="column-2">Asia</td><td class="column-3">$2.5</td>
+</tr>
+<tr class="row-31 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1eb.png" alt="🇨🇫" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Central African Republic</td><td class="column-2">Africa</td><td class="column-3">$2.6</td>
+</tr>
+<tr class="row-32 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1f7.png" alt="🇸🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Suriname</td><td class="column-2">South America</td><td class="column-3">$2.8</td>
+</tr>
+<tr class="row-33 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e6-1f1fc.png" alt="🇦🇼" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Aruba</td><td class="column-2">Caribbean</td><td class="column-3">$2.9</td>
+</tr>
+<tr class="row-34 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e7-1f1ee.png" alt="🇧🇮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Burundi</td><td class="column-2">Africa</td><td class="column-3">$3.2</td>
+</tr>
+<tr class="row-35 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e6-1f1e9.png" alt="🇦🇩" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Andorra</td><td class="column-2">Europe</td><td class="column-3">$3.2</td>
+</tr>
+<tr class="row-36 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1f8.png" alt="🇸🇸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> South Sudan</td><td class="column-2">Africa</td><td class="column-3">$3.3</td>
+</tr>
+<tr class="row-37 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f1-1f1f7.png" alt="🇱🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Liberia</td><td class="column-2">Africa</td><td class="column-3">$3.4</td>
+</tr>
+<tr class="row-38 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e9-1f1ef.png" alt="🇩🇯" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Djibouti</td><td class="column-2">Africa</td><td class="column-3">$3.7</td>
+</tr>
+<tr class="row-39 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1f1.png" alt="🇸🇱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Sierra Leone</td><td class="column-2">Africa</td><td class="column-3">$4.4</td>
+</tr>
+<tr class="row-40 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1ff.png" alt="🇸🇿" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Eswatini</td><td class="column-2">Africa</td><td class="column-3">$4.5</td>
+</tr>
+<tr class="row-41 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f2-1f1fb.png" alt="🇲🇻" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Maldives</td><td class="column-2">Asia</td><td class="column-3">$4.6</td>
+</tr>
+<tr class="row-42 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1eb-1f1ef.png" alt="🇫🇯" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Fiji</td><td class="column-2">Oceania</td><td class="column-3">$4.6</td>
+</tr>
+<tr class="row-43 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e7-1f1e7.png" alt="🇧🇧" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Barbados</td><td class="column-2">Caribbean</td><td class="column-3">$4.7</td>
+</tr>
+<tr class="row-44 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1f4.png" alt="🇸🇴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Somalia</td><td class="column-2">Africa</td><td class="column-3">$5.4</td>
+</tr>
+<tr class="row-45 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f2-1f1ea.png" alt="🇲🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Montenegro</td><td class="column-2">Europe</td><td class="column-3">$5.5</td>
+</tr>
+<tr class="row-46 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f1-1f1ee.png" alt="🇱🇮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Liechtenstein</td><td class="column-2">Europe</td><td class="column-3">$6.8*</td>
+</tr>
+<tr class="row-47 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ec-1f1fe.png" alt="🇬🇾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Guyana</td><td class="column-2">South America</td><td class="column-3">$7.4</td>
+</tr>
+<tr class="row-48 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f2-1f1e8.png" alt="🇲🇨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Monaco</td><td class="column-2">Europe</td><td class="column-3">$7.4*</td>
+</tr>
+<tr class="row-49 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f9-1f1ef.png" alt="🇹🇯" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Tajikistan</td><td class="column-2">Asia</td><td class="column-3">$8.1</td>
+</tr>
+<tr class="row-50 even">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f0-1f1ec.png" alt="🇰🇬" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Kyrgyz Republic</td><td class="column-2">Asia</td><td class="column-3">$8.2</td>
+</tr>
+<tr class="row-51 odd">
+	<td class="column-1"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f9-1f1ec.png" alt="🇹🇬" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Togo</td><td class="column-2">Africa</td><td class="column-3">$8.5</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-1974 from cache -->
+<p style="margin-top:0; font-size:14px;"><em>*2019 GDP (latest available) used where IMF estimates for 2021 were unavailable.</em></p>
+<p>Like Tuvalu, many of the world’s smallest economies are in Oceania, including Nauru, Palau, and Kiribati. Additionally, several countries above rely on the <a href="https://www.visualcapitalist.com/countries-reliant-tourism/" rel="noopener" target="_blank">tourism industry</a> for over one-third of their employment. </p>
+<h2>The Fastest Growing Economies in the World in 2021</h2>
+<p>With <strong>123%</strong> projected GDP growth, Libya’s economy is estimated to have the sharpest rise. </p>
+<p>Oil is <a href="https://www.visualcapitalist.com/ranking-the-countries-with-the-largest-proven-global-oil-reserves-in-the-world/" rel="noopener" target="_blank">propelling its growth</a>, with <strong>1.2 million</strong> barrels being pumped in the country daily. Along with this, exports and a depressed currency are among the primary factors behind its recovery. </p>
+
+<table id="tablepress-1993" class="tablepress tablepress-id-1993">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Rank</th><th class="column-2">Country</th><th class="column-3">Region</th><th class="column-4"><div class="softmerge-inner" style="width:317px;left:-1px">2021 Real GDP Growth (Annual % Change)</div></th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">1</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f1-1f1fe.png" alt="🇱🇾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Libya </td><td class="column-3">Africa</td><td class="column-4">123.2%</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">2</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ec-1f1fe.png" alt="🇬🇾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Guyana </td><td class="column-3">South America</td><td class="column-4">20.4%</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">3</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f2-1f1f4.png" alt="🇲🇴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Macao </td><td class="column-3">Asia</td><td class="column-4">20.4%</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">4</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f2-1f1fb.png" alt="🇲🇻" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Maldives </td><td class="column-3">Asia</td><td class="column-4">18.9%</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">5</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1ea.png" alt="🇮🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" />  Ireland </td><td class="column-3">Europe</td><td class="column-4">13.0%</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">6</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e6-1f1fc.png" alt="🇦🇼" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Aruba </td><td class="column-3">Caribbean</td><td class="column-4">12.8%</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">7</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f5-1f1e6.png" alt="🇵🇦" class="wp-smiley" style="height: 1em; max-height: 1em;" />  Panama </td><td class="column-3">Central America</td><td class="column-4">12.0%</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">8</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1f1.png" alt="🇨🇱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Chile </td><td class="column-3">South America</td><td class="column-4">11.0%</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">9</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f5-1f1ea.png" alt="🇵🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Peru</td><td class="column-3">South America</td><td class="column-4">10.0%</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">10</td><td class="column-2"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e9-1f1f4.png" alt="🇩🇴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Dominican Republic</td><td class="column-3">Caribbean</td><td class="column-4">9.5%</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-1993 from cache -->
+<p>Ireland’s economy, with a projected <strong>13%</strong> real GDP growth, is being supported by the largest multinational corporations in the world. Facebook, TikTok, Google, Apple, and Pfizer all have their European headquarters in the country, which has a 12.5% corporate tax rate—or about half the global average. But these rates are set to change soon, as Ireland joined the <a href="https://www.oecd.org/tax/international-community-strikes-a-ground-breaking-tax-deal-for-the-digital-age.htm" rel="noopener" target="_blank">OECD</a> 15% minimum corporate tax rate agreement which was finalized in October 2021.</p>
+<p>Macao&#8217;s economy bounced back after COVID-19 restrictions began to lift, but more storm clouds are on the horizon for the Chinese district. The CCP&#8217;s anti-corruption campaign and <a href="https://foreignpolicy.com/2021/12/01/china-macao-casino-industry-alvin-chau-arrest/" rel="noopener" target="_blank">recent arrests</a> could signal a more strained relationship between Mainland China and the world&#8217;s largest gambling hub.</p>
+<h3>Looking Ahead at the World&#8217;s GDP</h3>
+<p>The global GDP figure of $94 trillion may seem massive to us today, but such a total might seem much more modest in the future.</p>
+<p>In 1970, the world economy was only about $3 trillion in GDP—or 30 times smaller than it is today. Over the next thirty years, the global economy is expected to more or less double again. By 2050, global GDP could total close to $180 trillion.</p>
+<p><span style="font-size: 16px" ><em>Correction: In earlier versions of this graphic, countries such as Vietnam and Pakistan were inadvertently not included in the visualization. They have now been added. In cases where the IMF has no data for 2021 (specifically Pakistan, Syria, Afghanistan, and Lebanon), the latest available data is used.</em></span></p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/visualizing-the-94-trillion-world-economy-in-one-chart/">Visualizing the $94 Trillion World Economy in One Chart</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.visualcapitalist.com/visualizing-the-94-trillion-world-economy-in-one-chart/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">143216</post-id>	</item>
+		<item>
+		<title>Biofuel Mandates: Out of Sync With The New Transportation Landscape</title>
+		<link>https://www.visualcapitalist.com/biofuel-mandates-out-of-sync-with-the-new-transportation-landscape/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=biofuel-mandates-out-of-sync-with-the-new-transportation-landscape</link>
+					<comments>https://www.visualcapitalist.com/biofuel-mandates-out-of-sync-with-the-new-transportation-landscape/#respond</comments>
+		
+		<dc:creator><![CDATA[Sponsored Content]]></dc:creator>
+		<pubDate>Tue, 21 Dec 2021 18:05:27 +0000</pubDate>
+				<category><![CDATA[Sponsored]]></category>
+		<category><![CDATA[biotech]]></category>
+		<category><![CDATA[oil]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[commodity]]></category>
+		<category><![CDATA[petroleum]]></category>
+		<category><![CDATA[commodities]]></category>
+		<category><![CDATA[renewable energy]]></category>
+		<category><![CDATA[corn]]></category>
+		<category><![CDATA[biofuel]]></category>
+		<category><![CDATA[renewable]]></category>
+		<category><![CDATA[gasoline]]></category>
+		<category><![CDATA[fracking]]></category>
+		<category><![CDATA[biomass]]></category>
+		<category><![CDATA[energy market]]></category>
+		<category><![CDATA[corn prices]]></category>
+		<category><![CDATA[commodity exchanges]]></category>
+		<category><![CDATA[petrochemicals]]></category>
+		<category><![CDATA[commodity markets]]></category>
+		<category><![CDATA[afpm]]></category>
+		<category><![CDATA[bio]]></category>
+		<guid isPermaLink="false">https://www.visualcapitalist.com/?p=144400</guid>
+
+					<description><![CDATA[<p>Biofuel mandates were passed in 2005, this graphic shows why they've become out of touch with modern transportation and are costing billions.</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/biofuel-mandates-out-of-sync-with-the-new-transportation-landscape/">Biofuel Mandates: Out of Sync With The New Transportation Landscape</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="rss-image"><div style="margin-bottom:10px;">
+<p style="text-align:center;"><em>The following content is sponsored by <a href="https://www.afpm.org/issues/fuels-vehicles/RFS">AFPM</a></em></p>
+</div>
+<p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/AFPM_Renewable_Energy_Fuel_V9-1.jpg" alt="Biofuel Mandates: Out of Sync With The New Transportation Landscape" usemap="#image-map"></p>
+<map name="image-map">
+<area target="_blank" alt="" title="" href="https://www.afpm.org/issues/fuels-vehicles/RFS" coords="-1,9144,1199,9697" shape="rect">
+</map>
+</div><h2>Biofuel Mandates: Out of Sync With Transportation Landscape</h2>
+<p>In 2005, the Renewable Fuel Standard (RFS) was enacted so that transportation fuel like diesel and gasoline will contain renewable fuel. The motives behind this were to reduce America’s dependence on foreign oil markets, improve climate initiatives, and bring gas prices down. </p>
+<p>However, over time it became evident that the forecasts that the RFS was built on were largely incorrect. This infographic from <a href="https://www.afpm.org/issues/fuels-vehicles/RFS">AFPM</a> dives into the world of biofuel and breaks down why the current policies are out of sync with modern transportation. </p>
+<p>But before we begin, let&#8217;s first explore the basics of biofuels.</p>
+<h2>What Is Biofuel?</h2>
+<p>Biofuel is transportation fuel derived from biological resources, like plants. This is in contrast to fossil fuels like gasoline and diesel, which are made up of nonrenewable petroleum. In addition, biofuels break down into conventional biofuels and advanced ones.</p>
+<p>Conventional biofuels are any fuel derived from starch feedstocks like <a href="https://www.visualcapitalist.com/visualizing-the-uses-of-corn/">corn</a> and grain. In fact, ethanol derived from corn represents one of the largest components of the biofuel market in America. For instance <strong>97%</strong> of gasoline in the U.S. contains ethanol and 94% of that ethanol comes from starch in corn grains. </p>
+<p>Advanced biofuels are second generation biofuels. They&#8217;re considered more complex, and come from non-food biomass like plant materials and animal waste. More advanced technologies are required to extract fuel from these resources. However, the impact on the food chain is minimized.</p>
+<p>Here are two examples of advanced biofuels: </p>
+<ul>
+<li>Biomass-based diesel: A diesel fuel substitute made from renewable feedstocks</li>
+<li>Cellulosic biofuel: Fuel that is often derived from cellulose or other non food-based renewable feedstock</li>
+</ul>
+<h2>The Ethanol-Gasoline Dilemma</h2>
+<p>Since the 1990s, the amount of ethanol in gasoline has creeped upwards of 10% from less than <a href="https://www.eia.gov/energyexplained/biofuels/use-and-supply-of-ethanol.php">1%</a>. This is a problem that stems from <strong>gallon specific mandates</strong>. As the amount of gasoline consumed in the U.S. declines, ethanol&#8217;s portion of the fuel mix represents a larger portion of the overall pie. </p>
+
+<table id="tablepress-2035" class="tablepress tablepress-id-2035">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Year</th><th class="column-2">Ethanol consumption (billions of gallons)</th><th class="column-3">Ethanol consumption (% of motor gasoline)</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">2020</td><td class="column-2">12.63</td><td class="column-3">10.02%</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">2015</td><td class="column-2">13.95</td><td class="column-3">9.9%</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">2010</td><td class="column-2">12.86</td><td class="column-3">9.3%</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">2005</td><td class="column-2">4.06</td><td class="column-3">2.9%</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">2000</td><td class="column-2">1.65</td><td class="column-3">1.3%</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">1995</td><td class="column-2">1.32</td><td class="column-3">1.2%</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">1990</td><td class="column-2">0.75</td><td class="column-3">0.7%</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">1985</td><td class="column-2">0.62</td><td class="column-3">0.6%</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2035 from cache -->
+<p>The bulk of automobiles on U.S. roads as well as water-born engines have what&#8217;s referred to as an <strong>ethanol limit</strong>—the highest ethanol blend a vehicle can safely be fueled with. E10, which is 10% ethanol, is the recommended limit for most existing cars today. And filling up with anything higher may lead to corrosive damage, extensive repairs, and engine failure.</p>
+<h2>We Have A Problem: Biofuel Mandates Are Too Big</h2>
+<p>The 10% limit is an issue most didn’t anticipate at the time the RFS came to be, and here&#8217;s why things are going awry. </p>
+<p>RFS mandates are out of touch with supply and demand dynamics. Biofuel and ethanol consumption in America is near all-time-highs with some <a href="https://www.eia.gov/energyexplained/biofuels/use-and-supply-of-ethanol.php">12 billion</a> gallons consumed in 2020.  At the same time, gasoline demand is some <strong>30 billion</strong> gallons below the forecasts when the RFS passed.</p>
+<p>What&#8217;s more, this is leading to unintended consequences and ineffective business practices:</p>
+<ul>
+<li>First, a surge in advanced biofuel imports is occurring. Given the RFS mandate requires more ethanol than the U.S. gas supply can absorb, refiners are forced to pay hefty fees for advanced biofuels from foreign markets. In 2020, the cumulative cost stood at a staggering $<strong>5.3 billion</strong>, nearly 15x the amounts imported in 2011.</li>
+<li>Second, these exorbitant import costs are being passed on to consumers in the form of higher fuel costs. For example, the RFS obligations have led to an average 20 cent per gallon increase in 2021.  </li>
+<li>Third, fuel manufacturers are paying billions of dollars in compliance credits to satisfy the RFS&#8217; obligations. In many cases, this expense is greater than total labor and wages expenses and threatens to make businesses in this space anti-competitive.</li>
+</ul>
+<h2>Reform: Bringing RFS Mandates In Line With Reality</h2>
+<p>When congress passed the RFS in 2005, few, if any, could have predicted the state of <a href="https://www.visualcapitalist.com/visualizing-u-s-energy-use-in-one-giant-chart/">energy</a> markets today. </p>
+<p>Key projections like increasing fuel consumption and decreasing domestic crude oil production failed to transpire. As a result, the RFS needs to undergo urgent reform in order to be better aligned with the realities of modern gasoline and diesel markets.</p>
+<p><em>For more information, visit <a href="https://www.afpm.org/issues/fuels-vehicles/RFS">afpm.org</a></em></p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/biofuel-mandates-out-of-sync-with-the-new-transportation-landscape/">Biofuel Mandates: Out of Sync With The New Transportation Landscape</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.visualcapitalist.com/biofuel-mandates-out-of-sync-with-the-new-transportation-landscape/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">144400</post-id>	</item>
+		<item>
+		<title>Mapped: Economic Freedom Around the World</title>
+		<link>https://www.visualcapitalist.com/mapped-economic-freedom-around-the-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mapped-economic-freedom-around-the-world</link>
+					<comments>https://www.visualcapitalist.com/mapped-economic-freedom-around-the-world/#respond</comments>
+		
+		<dc:creator><![CDATA[Anshool Deshmukh]]></dc:creator>
+		<pubDate>Mon, 20 Dec 2021 20:08:04 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Economy]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[africa]]></category>
+		<category><![CDATA[australia]]></category>
+		<category><![CDATA[india]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[united states]]></category>
+		<category><![CDATA[brexit]]></category>
+		<category><![CDATA[economy]]></category>
+		<category><![CDATA[singapore]]></category>
+		<category><![CDATA[democracy]]></category>
+		<category><![CDATA[imports and exports]]></category>
+		<category><![CDATA[New Zealand]]></category>
+		<category><![CDATA[South Africa]]></category>
+		<category><![CDATA[economic freedom]]></category>
+		<category><![CDATA[economic freedom index]]></category>
+		<category><![CDATA[heritage organization]]></category>
+		<category><![CDATA[Mauritius]]></category>
+		<category><![CDATA[Abraham Accords]]></category>
+		<category><![CDATA[isreal]]></category>
+		<category><![CDATA[measures of economic freedom]]></category>
+		<guid isPermaLink="false">https://www.visualcapitalist.com/?p=143750</guid>
+
+					<description><![CDATA[<p>The global average economic freedom score is at the highest its been in 27 years. Here we map the economic freedom score of nearly every country.</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/mapped-economic-freedom-around-the-world/">Mapped: Economic Freedom Around the World</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="rss-image"><p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/11/VC-OC-Economic-Freedom-Around-the-World-in-2021.jpg" alt="Map of Global Economic Freedom" /></p>
+<p><center><span class="bg-showmore-enable-customized-display"><input type='hidden' bg_collapse_expand_pro='61c98b0ae37b30011865292' value=61c98b0ae37b30011865292><input type='hidden' id='bg-show-more-text-61c98b0ae37b30011865292' value='▼ Use This Visualization'><input type='hidden' id='bg-show-less-text-61c98b0ae37b30011865292' value='Show Less'><input type='hidden' id='bg-icon-bg-color-61c98b0ae37b30011865292' value=''><div id='bg-showmore-pro-hidden-61c98b0ae37b30011865292' class='bg-showmore-closed ' ></p>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/license-this.jpg"><span><strong>Can I share this graphic?</strong><br />Yes. Visualizations are free to share and post in their original form across the web—even for publishers. Please link back to this page and attribute Visual Capitalist.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/share-this.jpg"><span><strong>When do I need a license?</strong><br />Licenses are required for some commercial uses, translations, or layout modifications. You can even whitelabel our visualizations. <a href="https://licensing.visualcapitalist.com/power-your-story-with-visual-capitalist/">Explore your options</a>.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/use-this-viz.jpg"><span><strong>Interested in this piece?</strong><br /><a href="https://licensing.visualcapitalist.com/product/economic-freedom-around-world/">Click here</a> to license this visualization.</span></div>
+</div>
+<p></div></span><button id='bg-showmore-action-61c98b0ae37b30011865292' class='bg-showmore-plg-button bg-green-button bg-  '  style='color:#ffffff;;'>▼ Use This Visualization</button><style type='text/css'>a.bg-showmore-plg-link:hover,a.bg-showmore-plg-link:active,a.bg-showmore-plg-link:focus{color:#0071bb;}</style></center></p>
+</div><h2>Mapped: Economic Freedom Around the World</h2>
+<p>How would you define a country’s economic freedom? </p>
+<p>The cornerstones of economic freedom by most measures are personal choice, voluntary exchange, independence to compete in markets, and security of the person and privately-owned property. Simply put, it is about the quality of political and economic institutions in countries. </p>
+<p>Based on the <a href="https://www.heritage.org/index/pdf/2021/book/2021_IndexofEconomicFreedom_Highlights.pdf">Index of Economic Freedom</a> by the Heritage Organization, we mapped the economic freedom of 178 countries worldwide.</p>
+<h2>Measures of Economic Freedom</h2>
+<p>The index uses five broad areas to score economic freedom for each country:</p>
+<ol>
+<li><strong>Size of Government:</strong> Greater government spending, taxation, and bigger government agencies tend to reduce individual choice and economic freedom.</li>
+<li><strong>Legal System and Property Rights:</strong> The ability to accumulate private property and wealth is a central motivating force for workers and investors in a market economy, and well-functioning legal frameworks protect the rights of all citizens.</li>
+<li><strong>Sound Money:</strong> Does earned money maintain its value, or is it lost to inflation? When inflation is high and volatile, individuals can&#8217;t plan for the future and use economic freedom effectively.</li>
+<li><strong>Freedom to Trade Internationally:</strong> Freedom to exchange—in its broadest sense, buying, selling, making contracts, and so on—is considered essential to economic prosperity. Limited international trading options significantly reduce the potential for growth.</li>
+<li><strong>Regulation:</strong> When governments utilize tools and impose oppressive regulations that limit the right to exchange, economic freedom typically suffers.</li>
+</ol>
+<h2>World Economic Freedom by Region</h2>
+<p>In 2021, the global average economic freedom score is <strong>61.6</strong>, the highest its been in 27 years.</p>
+<p>But from Mauritius and smaller African nations being beacons of hope to East Asian and Oceanic countries epitomizing economic democracy, every region has a different story to tell.</p>
+<p>Let’s take a look at the economic freedom of each region in the world.</p>
+<h3>Americas</h3>
+<p>Even though the U.S. and Canada continue to be some of the most economically free countries globally, some markers <a href="https://www.heritage.org/index/pdf/2021/book/2021_IndexofEconomicFreedom_Highlights.pdf">are suffering</a>. </p>
+<p>The regional average unemployment rate has risen to <strong>6.9%</strong>, and inflation (outside of Venezuela) has increased to<strong> 5.2%</strong>. The region’s average level of public debt—already the highest globally—rose to <strong>85.2%</strong> of its GDP during the past year.</p>
+<p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/Supplement-America-Economic-Freedom-Around-the-World-in-2021-v2.jpg" alt="Map of Economic Freedom in the Americas" /></p>
+<p>Across many Latin American countries, <a href="https://www.visualcapitalist.com/visualizing-corruption-around-the-world/">widespread corruption</a> and weak protection of property rights have aggravated regulatory inefficiency and monetary instability.</p>
+<p>For example, Argentina’s Peronist government has recently fixed the price of <a href="https://www.economist.com/the-americas/2021/10/30/argentinas-government-has-fixed-the-price-of-1432-products">1,432 products</a> as a response to a 3.5% price rise in September, the equivalent to a 53% increase if annualized.</p>
+<h3>Europe</h3>
+<p>More than half of the world’s 38 freest countries (with overall scores above 70) are in Europe. This is due to the region&#8217;s relatively extensive and long-established free-market institutions, the robust rule of law, and exceptionally strong investment freedom.</p>
+<p>However, Europe still struggles with a variety of policy barriers to vigorous economic expansion. This includes overly protective and costly labor regulations, which was one of the major reasons why the UK voted to leave the EU.</p>
+<p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/Supplement-Europe-Economic-Freedom-Around-the-World-in-2021-v2-1.jpg" alt="Map of Economic Freedom in Europe" /></p>
+<p>Brexit has since had a major impact on the region. </p>
+<p>Even a year later, official UK figures showed a <a href="https://www.euronews.com/2021/03/12/uk-sees-record-fall-in-trade-with-eu-after-end-of-brexit-transition-period">record fall</a> in trade with the EU in January 2021, as the economy struggled with post-Brexit rules and the pandemic. </p>
+<h3>Africa</h3>
+<p>Dictatorships, corruption, and conflict have historically kept African nations as some of the most <a href="https://ciaotest.cc.columbia.edu/olj/cato/v23n2/cato_v23n2mbj01.pdf">economically repressed</a> in the world.</p>
+<p>While larger and more prosperous African nations struggle to advance economic freedom, some smaller countries are becoming the beacon of hope for the continent.</p>
+<p><img loading="lazy" width="820" height="1085" class="size-full wp-image-143797 aligncenter" src="https://www.visualcapitalist.com/wp-content/uploads/2021/11/Supplemental-Africa-Economic-Freedom-Around-the-World-in-2021-v2.jpg" alt="Map of Economic Freedom in Africa" srcset="https://www.visualcapitalist.com/wp-content/uploads/2021/11/Supplemental-Africa-Economic-Freedom-Around-the-World-in-2021-v2.jpg 820w, https://www.visualcapitalist.com/wp-content/uploads/2021/11/Supplemental-Africa-Economic-Freedom-Around-the-World-in-2021-v2-768x1016.jpg 768w" sizes="(max-width: 820px) 100vw, 820px" /></p>
+<p>Mauritius (rank 11), Seychelles (43) and Botswana (45) were the top African countries, offering the most robust policies and institutions supporting economic self-sufficiency.</p>
+<p>From property rights to financial freedom, small African countries are racing ahead of the continent&#8217;s largest in <a href="https://www.theafricareport.com/129552/smaller-african-states-have-more-economic-freedom/">advancing economic autonomy</a> as they look to build business opportunities for their citizens.</p>
+<h3>Middle East and Central Asia</h3>
+<p>When Israel, the UAE, and Bahrain signed the Abraham Accords last year, there was a sense of a <a href="https://www.thejc.com/comment/opinion/economic-freedom-is-the-key-to-middle-east-peace-and-prosperity-1.518049">new paradigm</a> emerging in a region with a long history of strife.</p>
+<p>A year into the signing of this resolution, the effects have <a href="https://www.wilsoncenter.org/event/abraham-accords-one-year-later-assessing-impact-and-what-lies-ahead">been promising</a>. There have been bilateral initiatives within the private sector and civil society leading to increasing economic and political stability in the region.</p>
+<p><img loading="lazy" width="820" height="1152" class="size-full wp-image-143799 aligncenter" src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/Supplemental-Middle-East-and-Central-Asia-Economic-Freedom-Around-the-World-in-2021-v2.jpg" alt="Map of Economic Freedom in Middle East and Central Asia" /></p>
+<p>Central Asian countries once part of the Soviet Union have recently starting integrating more directly with the world economy, primarily through natural resource exports. In total, natural resources account for about <a href="https://novastan.org/en/non-classe/how-can-britain-develop-trade-in-central-asia/#:~:text=Kyrgyzstan%20and%20Tajikistan%20still%20rely%20heavily%20on%20remittances.&amp;text=These%20countries%20are%20rich%20in,cent%20in%20Kazakhstan%20and%20Turkmenistan.">65% of exports</a> in Kyrgyzstan, Tajikistan, and Uzbekistan, and more than <strong>90%</strong> in Kazakhstan and Turkmenistan.</p>
+<p>Despite this progress, these countries have a long way to go in terms of economic freedom. Uzbekistan (108), Turkmenistan (167) and Tajikistan (134) are still some of the lowest-ranked countries in the world.</p>
+<h3>East Asia and Oceania</h3>
+<p>Despite massive populations and strong economies, countries like China and India remain <a href="https://www.heritage.org/index/country/china">mostly unfree economies</a>. The modest improvements in scores over the last few years have been through gains in property rights, judicial effectiveness, and business freedom indicators.</p>
+<p>Nearby, Singapore’s economy has been ranked the freest in the world for the second year in a row. Singapore remains the only country in the world that is considered  <a href="https://www.heritage.org/index/country/singapore">economically free</a> in every index category.</p>
+<p><img loading="lazy" width="820" height="1179" class="size-full wp-image-143798 aligncenter" src="https://www.visualcapitalist.com/wp-content/uploads/2021/11/Supplemental-East-Asia-and-Oceania-Economic-Freedom-Around-the-World-in-2021-v2.jpg" alt="Map of Economic Freedom in East Asia and Oceania" srcset="https://www.visualcapitalist.com/wp-content/uploads/2021/11/Supplemental-East-Asia-and-Oceania-Economic-Freedom-Around-the-World-in-2021-v2.jpg 820w, https://www.visualcapitalist.com/wp-content/uploads/2021/11/Supplemental-East-Asia-and-Oceania-Economic-Freedom-Around-the-World-in-2021-v2-768x1104.jpg 768w" sizes="(max-width: 820px) 100vw, 820px" /></p>
+<p>Finally, it&#8217;s worth noting that Australia and New Zealand are regional leaders, and are two of only five nations that are currently in the &#8220;free&#8221; category of the index.</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/mapped-economic-freedom-around-the-world/">Mapped: Economic Freedom Around the World</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.visualcapitalist.com/mapped-economic-freedom-around-the-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">143750</post-id>	</item>
+		<item>
+		<title>Mapped: The Most Common Illicit Drugs in the World</title>
+		<link>https://www.visualcapitalist.com/mapped-the-most-common-illicit-drugs-in-the-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mapped-the-most-common-illicit-drugs-in-the-world</link>
+					<comments>https://www.visualcapitalist.com/mapped-the-most-common-illicit-drugs-in-the-world/#respond</comments>
+		
+		<dc:creator><![CDATA[Omri Wallach]]></dc:creator>
+		<pubDate>Fri, 17 Dec 2021 20:49:33 +0000</pubDate>
+				<category><![CDATA[Misc]]></category>
+		<category><![CDATA[Cannabis]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[drugs]]></category>
+		<category><![CDATA[marijuana]]></category>
+		<category><![CDATA[cannabis]]></category>
+		<category><![CDATA[War on Drugs]]></category>
+		<category><![CDATA[maps]]></category>
+		<category><![CDATA[map]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[opioids]]></category>
+		<category><![CDATA[epidemic]]></category>
+		<category><![CDATA[WHO]]></category>
+		<category><![CDATA[weed]]></category>
+		<category><![CDATA[drug]]></category>
+		<category><![CDATA[opium]]></category>
+		<category><![CDATA[opiate]]></category>
+		<category><![CDATA[meth]]></category>
+		<category><![CDATA[crack]]></category>
+		<category><![CDATA[cocaine]]></category>
+		<category><![CDATA[heroin]]></category>
+		<guid isPermaLink="false">https://www.visualcapitalist.com/?p=143487</guid>
+
+					<description><![CDATA[<p>What are the most commonly used illicit drugs around the world?</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/mapped-the-most-common-illicit-drugs-in-the-world/">Mapped: The Most Common Illicit Drugs in the World</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="rss-image"><p style="font-size: 16px;"><em><strong>How to Use:</strong> The below maps will transition automatically. To pause, move your cursor on the image. Arrows on left/right navigate.</em></p>
+<div style="margin-top: 10px;"><div class="soliloquy-feed-output"><img class="soliloquy-feed-image" src="https://www.visualcapitalist.com/wp-content/uploads/2021/11/The-Most-Common-Drugs-in-the-World-Cannabis.jpg" title="The Most Common Drugs in the World &#8211; Cannabis" alt="The Most Common Drugs in the World - Cannabis" /></div></div>
+<p><center><span class="bg-showmore-enable-customized-display"><input type='hidden' bg_collapse_expand_pro='61c98b0ae53b44029460374' value=61c98b0ae53b44029460374><input type='hidden' id='bg-show-more-text-61c98b0ae53b44029460374' value='▼ Use This Visualization'><input type='hidden' id='bg-show-less-text-61c98b0ae53b44029460374' value='Show Less'><input type='hidden' id='bg-icon-bg-color-61c98b0ae53b44029460374' value=''><div id='bg-showmore-pro-hidden-61c98b0ae53b44029460374' class='bg-showmore-closed ' ></p>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/license-this.jpg"><span><strong>Can I share this graphic?</strong><br />Yes. Visualizations are free to share and post in their original form across the web—even for publishers. Please link back to this page and attribute Visual Capitalist.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/share-this.jpg"><span><strong>When do I need a license?</strong><br />Licenses are required for some commercial uses, translations, or layout modifications. You can even whitelabel our visualizations. <a href="https://licensing.visualcapitalist.com/power-your-story-with-visual-capitalist/">Explore your options</a>.</span></div>
+</div>
+<div class="li-table">
+<div class="licensing"><img class="img-licensing" src="https://www.visualcapitalist.com/wp-content/uploads/2020/08/use-this-viz.jpg"><span><strong>Interested in this piece?</strong><br /><a href="https://licensing.visualcapitalist.com/product/most-common-illicit-drugs-worldwide/">Click here</a> to license this visualization.</span></div>
+</div>
+<p></div></span><button id='bg-showmore-action-61c98b0ae53b44029460374' class='bg-showmore-plg-button bg-green-button bg-  '  style='color:#ffffff;;'>▼ Use This Visualization</button><style type='text/css'>a.bg-showmore-plg-link:hover,a.bg-showmore-plg-link:active,a.bg-showmore-plg-link:focus{color:#0071bb;}</style></center></p>
+</div><h2>Mapped: The Most Common Illicit Drugs in the World</h2>
+<p>Despite strict prohibitory laws around much of the world, many common illicit drugs still see widespread use.</p>
+<p>Humans have a storied and complicated relationship with drugs. Defined as chemical substances that cause a change in our physiology or psychology, many drugs are taken <a href="https://www.visualcapitalist.com/ranked-the-most-prescribed-drugs-in-the-u-s/" target="_blank" rel="noopener">medicinally</a> or accepted culturally, like caffeine, nicotine, and alcohol.</p>
+<p>But many drugs—including medicines and non-medicinal substances taken as drugs—are taken recreationally and can be abused. Each country and people have their own relationship to drugs, with some embracing the use of specific substances while others shun them outright.</p>
+<p>What are the most common drugs that are considered generally illicit in different parts of the world? Today’s graphics use data from the UN’s <a href="https://www.unodc.org/unodc/en/data-and-analysis/wdr2021.html" target="_blank" rel="noopener">World Drug Report 2021</a> to highlight the most prevalent drug used in each country.</p>
+<h2>What Types of Common Drugs Are Tracked?</h2>
+<p>The World Drug Report looks explicitly at the supply and demand of the international illegal drug market, not including commonly legal substances like caffeine and alcohol.</p>
+<p>Drugs are grouped by class and type, with six main types of drugs found as the most prevalent drugs worldwide.</p>
+<ul>
+<li><strong>Cannabis*:</strong> Drugs derived from cannabis, including hemp. This category includes marijuana (dried flowers), hashish (resin), and other for various other parts of the plant or derived oils.</li>
+<li><strong>Cocaine:</strong> Drugs derived from the leaves of coca plants. Labeled as either cocaine salts for powder form or crack for cocaine processed with baking soda and water into rock form.</li>
+<li><strong>Opioids:</strong> Includes <em>opiates</em> which are derived directly from the opium poppy plant, including morphine, codeine, and heroin, as well as synthetic alkaloids.</li>
+<li><strong>Amphetamine-type Stimulants (ATS):</strong> Amphetamine and drugs derived from amphetamine, including meth (also known as speed), MDMA, and ecstasy.</li>
+<li><strong>Sedatives and Tranquilizers:</strong> Includes other drugs whose main purpose is to reduce energy, excitement, or anxiety, as well as drugs used primarily to initiate or help with sleep (also called hypnotics).</li>
+<li><strong>Solvents and Inhalants:</strong> Gases or chemicals that can cause intoxication but are not intended to be drugs, including fuels, glues, and other industrial substances.</li>
+</ul>
+<p>The report also tracked the prevalence of <a href="https://www.visualcapitalist.com/overview-of-psychedelic-substances-medicine/" target="_blank" rel="noopener">hallucinogens</a>—psychoactive drugs which strongly affect the mind and cause a “trip”—but no hallucinogens ranked as the most prevalent drug in any one country.</p>
+<p style="font-size:15px;"><em>*Editor&#8217;s note: Recreational cannabis is legal in five countries, and some non-federal jurisdictions (i.e. states). However, in the context of this report, it was included because it is still widely illicit in most countries globally.</em></p>
+<h2>The Most Prevalent Drug in Each Country</h2>
+<p>According to the report, <a href="https://www.unodc.org/unodc/press/releases/2021/June/unodc-world-drug-report-2021_-pandemic-effects-ramp-up-drug-risks--as-youth-underestimate-cannabis-dangers.html" target="_blank" rel="noopener">275 million</a> people used drugs worldwide in 2020. Between the ages of 15–64, around 5.5% of the global population used drugs at least once.</p>
+<p>Many countries grouped different types of the same drug class together, and a few like <strong>Saudi Arabia</strong> and <strong>North Macedonia</strong> had multiple different drug types listed as the most prevalent.</p>
+<p>But across the board, <a href="https://www.visualcapitalist.com/the-history-of-cannabis-prohibition-in-the-u-s/" target="_blank" rel="noopener">cannabis</a> was the most commonly prevalent drug used in 107 listed countries and territories:</p>
+
+<table id="tablepress-2013" class="tablepress tablepress-id-2013">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Country or territory</th><th class="column-2">Most Prevalent Drug(s)</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">Afghanistan</td><td class="column-2">Heroin, opium</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">Albania</td><td class="column-2">Sedatives and tranquillizers (general)</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Algeria</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">Argentina</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">Australia</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">Azerbaijan</td><td class="column-2">Heroin</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">Bahamas</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">Bahrain</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">Bangladesh</td><td class="column-2">Amphetamine</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">Belarus</td><td class="column-2">Opium</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">Belgium</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1">Bolivia</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1">Brunei</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1">Bulgaria</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1">Burkina Faso</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1">Canada</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1">Central African Republic</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1">Chile</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1">China</td><td class="column-2">Methamphetamine</td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1">Costa Rica</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-22 even">
+	<td class="column-1">Côte d'Ivoire</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-23 odd">
+	<td class="column-1">Croatia</td><td class="column-2">Heroin</td>
+</tr>
+<tr class="row-24 even">
+	<td class="column-1">Cyprus</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-25 odd">
+	<td class="column-1">Czech Republic</td><td class="column-2">Benzodiazepines</td>
+</tr>
+<tr class="row-26 even">
+	<td class="column-1">Dominican Republic</td><td class="column-2">Cocaine (powder)</td>
+</tr>
+<tr class="row-27 odd">
+	<td class="column-1">Ecuador</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-28 even">
+	<td class="column-1">El Salvador</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-29 odd">
+	<td class="column-1">Estonia</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-30 even">
+	<td class="column-1">Finland</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-31 odd">
+	<td class="column-1">France</td><td class="column-2">Cannabis (hashish)</td>
+</tr>
+<tr class="row-32 even">
+	<td class="column-1">Georgia</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-33 odd">
+	<td class="column-1">Germany</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-34 even">
+	<td class="column-1">Gibraltar</td><td class="column-2">Cannabis (hashish)</td>
+</tr>
+<tr class="row-35 odd">
+	<td class="column-1">Greece</td><td class="column-2">Solvents and inhalants (general)</td>
+</tr>
+<tr class="row-36 even">
+	<td class="column-1">Guatemala</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-37 odd">
+	<td class="column-1">Honduras</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-38 even">
+	<td class="column-1">Hong Kong</td><td class="column-2">Heroin, opium, opioids</td>
+</tr>
+<tr class="row-39 odd">
+	<td class="column-1">Hungary</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-40 even">
+	<td class="column-1">Iceland</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-41 odd">
+	<td class="column-1">India</td><td class="column-2">Heroin</td>
+</tr>
+<tr class="row-42 even">
+	<td class="column-1">Indonesia</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-43 odd">
+	<td class="column-1">Iran</td><td class="column-2">Opium</td>
+</tr>
+<tr class="row-44 even">
+	<td class="column-1">Ireland</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-45 odd">
+	<td class="column-1">Israel</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-46 even">
+	<td class="column-1">Italy</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-47 odd">
+	<td class="column-1">Japan</td><td class="column-2">Methamphetamine</td>
+</tr>
+<tr class="row-48 even">
+	<td class="column-1">Jordan</td><td class="column-2">Cannabis (hashish)</td>
+</tr>
+<tr class="row-49 odd">
+	<td class="column-1">Kenya</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-50 even">
+	<td class="column-1">Latvia</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-51 odd">
+	<td class="column-1">Lebanon</td><td class="column-2">Cannabis (hashish)</td>
+</tr>
+<tr class="row-52 even">
+	<td class="column-1">Liechtenstein</td><td class="column-2">Cannabis (hashish)</td>
+</tr>
+<tr class="row-53 odd">
+	<td class="column-1">Lithuania</td><td class="column-2">Sedatives and tranquillizers (general)</td>
+</tr>
+<tr class="row-54 even">
+	<td class="column-1">Luxembourg</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-55 odd">
+	<td class="column-1">Macao</td><td class="column-2">Methamphetamine</td>
+</tr>
+<tr class="row-56 even">
+	<td class="column-1">Madagascar</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-57 odd">
+	<td class="column-1">Malaysia</td><td class="column-2">Methamphetamine</td>
+</tr>
+<tr class="row-58 even">
+	<td class="column-1">Malta</td><td class="column-2">Heroin</td>
+</tr>
+<tr class="row-59 odd">
+	<td class="column-1">Mexico</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-60 even">
+	<td class="column-1">Moldova</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-61 odd">
+	<td class="column-1">Mongolia</td><td class="column-2">Methamphetamine</td>
+</tr>
+<tr class="row-62 even">
+	<td class="column-1">Mozambique</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-63 odd">
+	<td class="column-1">Myanmar</td><td class="column-2">Heroin</td>
+</tr>
+<tr class="row-64 even">
+	<td class="column-1">Netherlands</td><td class="column-2">Benzodiazepines</td>
+</tr>
+<tr class="row-65 odd">
+	<td class="column-1">New Zealand</td><td class="column-2">Methamphetamine, solvent and inhalants</td>
+</tr>
+<tr class="row-66 even">
+	<td class="column-1">Nicaragua</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-67 odd">
+	<td class="column-1">Nigeria</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-68 even">
+	<td class="column-1">North Macedonia</td><td class="column-2">Multiple types</td>
+</tr>
+<tr class="row-69 odd">
+	<td class="column-1">Norway</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-70 even">
+	<td class="column-1">Oman</td><td class="column-2">Opium</td>
+</tr>
+<tr class="row-71 odd">
+	<td class="column-1">Pakistan</td><td class="column-2">Cannabis (hashish)</td>
+</tr>
+<tr class="row-72 even">
+	<td class="column-1">Panama</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-73 odd">
+	<td class="column-1">Peru</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-74 even">
+	<td class="column-1">Philippines</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-75 odd">
+	<td class="column-1">Poland</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-76 even">
+	<td class="column-1">Portugal</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-77 odd">
+	<td class="column-1">Qatar</td><td class="column-2">Cannabis (hashish)</td>
+</tr>
+<tr class="row-78 even">
+	<td class="column-1">Romania</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-79 odd">
+	<td class="column-1">Saudi Arabia</td><td class="column-2">Multiple types</td>
+</tr>
+<tr class="row-80 even">
+	<td class="column-1">Senegal</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-81 odd">
+	<td class="column-1">Serbia</td><td class="column-2">Benzodiazepines</td>
+</tr>
+<tr class="row-82 even">
+	<td class="column-1">Singapore</td><td class="column-2">Methamphetamine</td>
+</tr>
+<tr class="row-83 odd">
+	<td class="column-1">Slovenia</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-84 even">
+	<td class="column-1">South Africa</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-85 odd">
+	<td class="column-1">South Korea</td><td class="column-2">Methamphetamine</td>
+</tr>
+<tr class="row-86 even">
+	<td class="column-1">Spain</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-87 odd">
+	<td class="column-1">Sri Lanka</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-88 even">
+	<td class="column-1">Sudan</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-89 odd">
+	<td class="column-1">Suriname</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-90 even">
+	<td class="column-1">Sweden</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-91 odd">
+	<td class="column-1">Switzerland</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-92 even">
+	<td class="column-1">Syrian Arab Republic</td><td class="column-2">Cannabis (hashish)</td>
+</tr>
+<tr class="row-93 odd">
+	<td class="column-1">Tajikistan</td><td class="column-2">Heroin, opium</td>
+</tr>
+<tr class="row-94 even">
+	<td class="column-1">Tanzania</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-95 odd">
+	<td class="column-1">Thailand</td><td class="column-2">Methamphetamine</td>
+</tr>
+<tr class="row-96 even">
+	<td class="column-1">Togo</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-97 odd">
+	<td class="column-1">Trinidad and Tobago</td><td class="column-2">Cocaine (crack)</td>
+</tr>
+<tr class="row-98 even">
+	<td class="column-1">Tunisia</td><td class="column-2">Cannabis (general)</td>
+</tr>
+<tr class="row-99 odd">
+	<td class="column-1">Turkey</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-100 even">
+	<td class="column-1">Turkmenistan</td><td class="column-2">Opium</td>
+</tr>
+<tr class="row-101 odd">
+	<td class="column-1">U.S.</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-102 even">
+	<td class="column-1">UK</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-103 odd">
+	<td class="column-1">Ukraine</td><td class="column-2">Opioids</td>
+</tr>
+<tr class="row-104 even">
+	<td class="column-1">Uruguay</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-105 odd">
+	<td class="column-1">Uzbekistan</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+<tr class="row-106 even">
+	<td class="column-1">Venezuela</td><td class="column-2">Benzodiazepines</td>
+</tr>
+<tr class="row-107 odd">
+	<td class="column-1">Vietnam</td><td class="column-2">Heroin</td>
+</tr>
+<tr class="row-108 even">
+	<td class="column-1">Zambia</td><td class="column-2">Cannabis (herb)</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2013 from cache -->
+<p>How prevalent is cannabis worldwide? 72 locations or <strong>more than two-thirds</strong> of those reporting listed cannabis as the most prevalent drug.</p>
+<p>Unsurprisingly these include countries that have legalized recreational cannabis: <strong>Canada</strong>, <strong>Georgia</strong>, <strong>Mexico</strong>, <strong>South Africa</strong>, and <strong>Uruguay</strong>.</p>
+<h2>How Common Are Opioids and Other Drugs?</h2>
+<p>Though the global prevalence of cannabis is unsurprising, especially as it becomes legalized and accepted in more countries, other drugs also have strong footholds.</p>
+<p>Opioids (14 locations) were the most prevalent drugs in the Middle-East, South and Central Asia, including in <strong>India</strong> and <strong>Iran</strong>. Notably, <strong>Afghanistan</strong> is the world’s largest producer of opium, supplying more than <strong>90%</strong> of illicit heroin globally.</p>
+<p>Amphetamine-type drugs (9 locations) were the third-most common drugs overall, mainly in East Asia. Methamphetamine was the reported most prevalent drug in <strong>China</strong>, <strong>South Korea</strong>, and <strong>Japan</strong>, while amphetamine was only the most common drug in <strong>Bangladesh</strong>.</p>
+<p>However, it’s important to note that illicit drug usage is tough to track. Asian countries where cannabis is less frequently found (or reported) might understate its usage. At the same time, the <a href="https://www.visualcapitalist.com/the-spiraling-opioid-epidemic-in-america/" target="_blank" rel="noopener">opioid epidemic</a> in the U.S. and Canada reflects high opioid usage in the West.</p>
+<p>As some drugs become more widespread and others face a renewed “war,” the landscape is certain to shift over the next few years.</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/mapped-the-most-common-illicit-drugs-in-the-world/">Mapped: The Most Common Illicit Drugs in the World</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.visualcapitalist.com/mapped-the-most-common-illicit-drugs-in-the-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">143487</post-id>	</item>
+		<item>
+		<title>Four Reasons to Watch UK Equities</title>
+		<link>https://www.visualcapitalist.com/four-reasons-to-watch-uk-equities/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=four-reasons-to-watch-uk-equities</link>
+					<comments>https://www.visualcapitalist.com/four-reasons-to-watch-uk-equities/#respond</comments>
+		
+		<dc:creator><![CDATA[Sponsored Content]]></dc:creator>
+		<pubDate>Thu, 16 Dec 2021 01:19:00 +0000</pubDate>
+				<category><![CDATA[Sponsored]]></category>
+		<category><![CDATA[equities]]></category>
+		<category><![CDATA[stocks]]></category>
+		<category><![CDATA[stock market]]></category>
+		<category><![CDATA[brexit]]></category>
+		<category><![CDATA[ESG]]></category>
+		<category><![CDATA[BlackRock]]></category>
+		<category><![CDATA[equity investing]]></category>
+		<category><![CDATA[UK Equities]]></category>
+		<category><![CDATA[london stock exchange]]></category>
+		<category><![CDATA[UK dividends]]></category>
+		<guid isPermaLink="false">https://www.visualcapitalist.com/?p=144103</guid>
+
+					<description><![CDATA[<p>With the passing of a Brexit deal, is now the time to invest in UK equities? This data-driven infographic helps you decide. </p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/four-reasons-to-watch-uk-equities/">Four Reasons to Watch UK Equities</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="rss-image"><div style="margin-bottom:0px;">
+<p style="text-align:left;"><em>The following content is sponsored by <a href="https://www.blackrock.com/uk/intermediaries/themes/uk-equities" rel="noopener" target="_blank">BlackRock</a>.</em></p>
+</div>
+</div><p>Over the past several years, UK equities have traded at a relative discount compared to other developed markets.  This was largely due to ongoing Brexit negotiations, where uncertainty around trade deals and other legislation created significant headwinds. </p>
+<p>Fast forward to today, and much of the uncertainty has passed. Does this mean it&#8217;s time to invest in the UK? </p>
+<h2>Looking Ahead</h2>
+<p>This infographic from <a href="https://www.blackrock.com/uk/intermediaries/themes/uk-equities" rel="noopener" target="_blank">BlackRock</a> covers four reasons for why investors should consider an allocation to UK equities. </p>
+<p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/BlackRock_UK-Equities_Infographic_v1.6-1.jpg" alt= "UK Equities infographic" usemap="#image-map"></p>
+<map name="image-map">
+<area target="_blank" alt="" title="" href="https://www.blackrock.com/uk/intermediaries/themes/uk-equities" coords="9,7181,819,7366" shape="rect">
+</map>
+<p>So, why should investors consider an allocation to UK equities?</p>
+<h2>#1: The UK Market Is Not the UK Economy</h2>
+<p>The UK equity market is represented by many leading multinational companies from a variety of sectors.</p>
+<p>For example, consider the <strong>FTSE All-Share Index</strong>, which contains over 600 companies listed on the London Stock Exchange. As of March 31, 2021, <strong>72.5%</strong> of these companies&#8217; total revenue was derived from outside of the UK. </p>
+<p>A large share of overseas revenue provides investors with exposure to a range of global themes, where outcomes are not dictated by the UK economy itself. </p>
+<h2>#2: Business Activity is Ramping Up</h2>
+<p>The confirmation of a Brexit trade deal has provided UK companies with clarity around the rules of engagement, as well as the confidence to look ahead.</p>
+<p>As a result, the UK has been ranked as the most attractive place in Europe for future investment. </p>
+
+<table id="tablepress-2022" class="tablepress tablepress-id-2022">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Country</th><th class="column-2">Which country do you believe will be<br />
+the most attractive for foreign investment in 2021?<br />
+(% of respondents) </th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">UK</td><td class="column-2">43%</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">France</td><td class="column-2">31%</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Germany</td><td class="column-2">28%</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">Italy</td><td class="column-2">26%</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">Spain</td><td class="column-2">20%</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2022 from cache -->
+<p style="margin-top:0px; font-size:15px;"><em>Based on the results of 550 C-suite interviews. Source: EY (2021)</em></p>
+<p>This optimism has also spread to the UK equity market, where <a href="https://www.visualcapitalist.com/worlds-largest-ipos-adjusted-for-inflation/" rel="noopener" target="_blank">initial public offering</a> (IPO) issuance in the first half of 2021 has already exceeded the entirety of 2020. </p>
+
+<table id="tablepress-2023" class="tablepress tablepress-id-2023">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Year</th><th class="column-2">Number of IPOs</th><th class="column-3">Money Raised</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">First half of 2021</td><td class="column-2">47</td><td class="column-3">£3.5 billion</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">2020</td><td class="column-2">35</td><td class="column-3">£3.1 billion</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">2019</td><td class="column-2">33</td><td class="column-3">£2.9 billion</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2023 from cache -->
+<p style="margin-top:0px; font-size:15px;"><em>Source: London Stock Exchange (2021)</em></p>
+<p>Among those 47 IPOs were a number of high profile tech companies including <strong>Moonpig</strong> (online greeting cards), <strong>Darktrace</strong> (cybersecurity), and <strong>Deliveroo</strong> (food delivery). </p>
+<p>The UK’s venture capital scene is also thriving, with U.S.-based <strong>Sequoia</strong> opening its first European office in London. Sequoia was an early investor in world-class businesses such as Apple, Google, and Airbnb. </p>
+<h2>#3: UK Firms are ESG Leaders</h2>
+<p>UK companies have historically been early adopters of environmental, social, and governance (ESG) practices. In fact, <strong>45%</strong> of FTSE 100 companies have begun <a href="https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/nearly-half-of-uk-s-100-biggest-companies-link-executive-pay-to-esg-measures-63248983" rel="noopener" target="_blank">integrating ESG metrics</a> into their executive compensation schemes. </p>
+<p>UK firms are also leaders in gender diversity, consistently tracking ahead of other developed markets. </p>
+
+<table id="tablepress-2024" class="tablepress tablepress-id-2024">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Year</th><th class="column-2">% Director Seats Held by Women (UK)</th><th class="column-3">% Director Seats Held by Women (MSCI World Index) </th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">2016</td><td class="column-2">25.3%</td><td class="column-3">19.1%</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">2017</td><td class="column-2">26.8%</td><td class="column-3">20.4%</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">2018</td><td class="column-2">29.1%</td><td class="column-3">21.6%</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">2019</td><td class="column-2">31.7%</td><td class="column-3">25.0%</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">2020</td><td class="column-2">34.3%</td><td class="column-3">26.2%</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2024 from cache -->
+<p style="margin-top:0px; font-size:15px;"><em>Source: MSCI (2020)</em></p>
+<p>This leadership may bring further interest to the UK equity market, especially as awareness around social issues continues to rise. </p>
+<h2>#4: UK Equities Can be a Compelling Source of Income</h2>
+<p>Over a 10-year time frame, UK dividends rates have exceeded those of other global markets. </p>
+
+<table id="tablepress-2025" class="tablepress tablepress-id-2025">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Country/Region</th><th class="column-2">Dividend Yield (as of Sept. 30, 2021)</th><th class="column-3">Dividend Yield (10-year median) </th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">UK</td><td class="column-2">3.7%</td><td class="column-3">3.9%</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">Eurozone</td><td class="column-2">2.2%</td><td class="column-3">3.2%</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Japan</td><td class="column-2">2.0%</td><td class="column-3">2.1%</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">EM</td><td class="column-2">2.2%</td><td class="column-3">2.7%</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">World</td><td class="column-2">1.7%</td><td class="column-3">2.5%</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">U.S.</td><td class="column-2">1.4%</td><td class="column-3">2.0%</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-2025 from cache -->
+<p style="margin-top:0px; font-size:15px;"><em>Source: Barclays Research, Refinitive (2021)</em></p>
+<p>This outperformance even lasted through the COVID-19 pandemic, when dividend rates around the world were rebased (a term used for dividend cuts).</p>
+<h2>Beware of Zombies</h2>
+<p>While these factors provide UK equities with an attractive backdrop, the presence of <strong>zombie companies</strong> has dragged down the performance of the overall market.</p>
+<p>Zombie companies are ones that are close to insolvency and do not generate enough profits to pay off their debts. Their survival is only made possible due to <a href="https://www.visualcapitalist.com/700-year-decline-of-interest-rates/" rel="noopener" target="_blank">record low interest rates</a>, which allows them to continue borrowing instead of shutting down. </p>
+<p>So how many zombie firms are operating in the UK equity market? </p>
+<p>According to <strong>Onward</strong>, a UK-based think tank, roughly <a href="https://www.ukonward.com/wp-content/uploads/2020/09/Paying-it-Forward-.pdf" rel="noopener" target="_blank">one-in-five UK companies</a> had become zombified in March 2020.  Because of this, investors may find an actively managed approach to be beneficial. Unlike an index ETF, actively managed funds have the ability to avoid unprofitable businesses. </p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/four-reasons-to-watch-uk-equities/">Four Reasons to Watch UK Equities</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.visualcapitalist.com/four-reasons-to-watch-uk-equities/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">144103</post-id>	</item>
+		<item>
+		<title>Graphene: The Wonder Material of the Future</title>
+		<link>https://www.visualcapitalist.com/graphene-the-wonder-material-of-the-future/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=graphene-the-wonder-material-of-the-future</link>
+					<comments>https://www.visualcapitalist.com/graphene-the-wonder-material-of-the-future/#respond</comments>
+		
+		<dc:creator><![CDATA[Sponsored Content]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 06:13:32 +0000</pubDate>
+				<category><![CDATA[Sponsored]]></category>
+		<category><![CDATA[graphene]]></category>
+		<category><![CDATA[graphite]]></category>
+		<category><![CDATA[water crisis]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[fortune]]></category>
+		<category><![CDATA[carbon emissions]]></category>
+		<category><![CDATA[graphene production]]></category>
+		<category><![CDATA[wonder material]]></category>
+		<category><![CDATA[properties of graphene]]></category>
+		<category><![CDATA[applications of graphene]]></category>
+		<category><![CDATA[discovery of graphene]]></category>
+		<category><![CDATA[history of graphene]]></category>
+		<category><![CDATA[desalination technology]]></category>
+		<category><![CDATA[hydrogen gas]]></category>
+		<category><![CDATA[rust prevention]]></category>
+		<category><![CDATA[artwork protection]]></category>
+		<category><![CDATA[hydrograph]]></category>
+		<guid isPermaLink="false">https://www.visualcapitalist.com/?p=144138</guid>
+
+					<description><![CDATA[<p>The market value for Graphene is going to be $2.8 billion in 2027. Here we introduce you to the material and its various applications.</p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/graphene-the-wonder-material-of-the-future/">Graphene: The Wonder Material of the Future</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="rss-image"><div style="margin-bottom: 10px;">
+<p style="text-align: center;"><em>The following content is sponsored by <a href="https://www.visualcapitalist.com/company_spotlight/hydrograph/?utm_source=VC-newsletter&amp;utm_medium=Branded-Content&amp;utm_campaign=VC-Hydrograph" target="_blank" rel="noopener">HydroGraph</a></em></p>
+</div>
+<p><img src="https://www.visualcapitalist.com/wp-content/uploads/2021/12/Hydrograph_Graphene-101-v9-F.jpg" usemap="#image-map" /></p>
+<map name="image-map">
+<area title="" alt="" coords="2,6550,1199,6700" shape="rect" href="https://www.visualcapitalist.com/company_spotlight/hydrograph/?utm_source=VC-newsletter&amp;utm_medium=Branded-Content&amp;utm_campaign=VC-Hydrograph" target="_blank" /> </map>
+</div><h2>Graphene: The Wonder Material of the Future</h2>
+<p>There is a new wonder material in town, and its name is graphene. Since it was first successfully isolated in 2004, graphene, with its honeycomb-like 2D structure and its wide gamut of interesting properties, has been keenly studied by material scientists.</p>
+<p>This naturally transparent 1 millimeter thick lattice of carbon atoms has multiple applications and could even one day potentially solve the world’s water crisis.</p>
+<p>The faith in the material is so strong that, according to numbers projected by <a href="https://www.fortunebusinessinsights.com/graphene-market-102930">Fortune Business Insights</a>, its market value will be <strong>$2.8 billion</strong> in 2027.</p>
+<p>In this infographic from <a href="https://www.visualcapitalist.com/company_spotlight/hydrograph/?utm_source=VC-newsletter&amp;utm_medium=Branded-Content&amp;utm_campaign=VC-Hydrograph">HydroGraph</a>, we are introduced to the fascinating world of graphene, including its properties, applications, history and production.</p>
+<h2>What is Graphene?</h2>
+<p>It is a single layer (monolayer) of carbon atoms, tightly bound in a hexagonal honeycomb lattice. It is the <a href="https://www.graphenea.com/pages/graphene#.Ya7kKtDMK3A">building block</a> of graphite, which is made up of multiple layers of these monolayer carbon atoms on top of each other.</p>
+<p>Here is a quick breakdown of its properties:</p>
+<ul>
+<li>It is the lightest material known to man, with 1 square meter weighing only <strong>0.77 milligrams</strong>.</li>
+<li>Despite its light weight, it is still <strong>200 times stronger</strong> than steel.</li>
+<li>It is one of the strongest conductors of heat and electricity.</li>
+<li>It also has uniform absorption of light across the visible and near-infrared parts of the spectrum.</li>
+</ul>
+<p>Given that graphene is a pure carbon-based material, it is potentially a sustainable solution for an almost limitless number of applications.</p>
+<h2>Importance of the Material in Future Applications</h2>
+<p>The future of science and technology is boundless, and graphene can help accomplish that future sooner than we expect.</p>
+<p>Here are several profound inventions to look forward to in the near future:</p>
+<h3>Fuel from Air</h3>
+<p>A team of UK researchers led by Nobel Laureate Andre Geim have shown that graphene can be used as a <a href="https://www.zmescience.com/science/physics/graphene-membrane-fuel-cell-hydrogen-95421/">proton exchange</a> membrane in fuel cells.</p>
+<p>The find surprised everybody since no one expected the membranes to allow protons to pass through its tight, one-atom-thick hexagon structure. In addition, graphene membranes could be used to sieve <a href="https://www.visualcapitalist.com/6-ways-hydrogen-and-fuel-cells-can-help-transition-to-clean-energy/">hydrogen gas</a> out of the atmosphere, making it possible for mobile fuel cells to run on nothing but air.</p>
+<h3>More Drinkable Water</h3>
+<p>Graphene could help solve the world’s <a href="https://www.visualcapitalist.com/world-water-access-visualization/">water crisis</a>. Membranes made from graphene can be big enough to let water through, but small enough to filter out the salt. In other words, these membranes could revolutionize desalination technology.</p>
+<p>In fact, a type of graphene has proven so effective at water filtration that it rendered water samples from Sydney Harbor safe to drink after passing through the filter just once.</p>
+<p>Australia&#8217;s Commonwealth Scientific and Industrial Research Organization (CSIRO) used &#8220;graphair&#8221; to make seawater <a href="https://www.nature.com/articles/s41467-018-02871-3">drinkable</a> after a single treatment.</p>
+<h3>A World Without Rust</h3>
+<p>Because it is <a href="https://www.treehugger.com/graphene-infused-lime-paint-has-magical-green-properties-4857114">virtually impermeable</a>, a coat of graphene-based paint could one day be used to eradicate corrosion and rust. This is highly important because the estimated global cost of corrosion is <strong>$2.5 trillion</strong> annually.</p>
+<p>Researchers have also recommended using glassware or copper plates covered with graphene paint as containers for strongly corrosive acids.</p>
+<h3>Saving Artwork from Fading</h3>
+<p>Graphene offers several <a href="https://news.artnet.com/art-world/can-graphene-prevent-fading-2018090">material advantages</a>: it can be produced in large, thin sheets; it blocks ultraviolet light; and is impermeable to oxygen, moisture, and other corrosive agents.</p>
+<p>Layered overtop an artwork, researchers posited that it could prevent irreversible color fading due to light exposure and oxidizing agents (like air). Their findings revealed that a single protective layer could avert color fading by up to <strong>70%</strong>.</p>
+<h2>Why Hasn’t the Wonder Material Taken Over?</h2>
+<p>Work still needs to be done before there can be widespread adoption of the material. Several production issues need to be addressed before more advanced sectors opt to implement it.</p>
+<p>One current challenge of mass production revolves around chemical vapor deposition (<a href="https://www.graphenea.com/pages/cvd-graphene#.YbEI7dDMKUk">CVD</a>). While it is the best method for producing single-layer graphene, it is not ideal in terms of scale.</p>
+<p>These challenges also make mass production a costly affair. It takes about <strong>$100</strong> to produce a single gram of graphene. Even then, the methods used for mass-producing graphene yield low-quality products and <a href="https://www.visualcapitalist.com/all-the-worlds-carbon-emissions-in-one-chart/">release carbon</a> into the environment.</p>
+<h2>Solving the Graphene Production Problem</h2>
+<p>To overcome these issues, HydroGraph has created a process to mass-produce graphene powder. It is environmentally conscious and highly efficient compared to other methods currently used in the market.</p>
+<p>The <a href="https://www.hydrograph.com/technology/">HydroGraph process</a> is the next step in the energy-efficient, environmentally friendly and customizable mass production of graphene.</p>
+<p><em> <a href="https://www.visualcapitalist.com/company_spotlight/hydrograph/?utm_source=VC-newsletter&amp;utm_medium=Branded-Content&amp;utm_campaign=VC-Hydrograph">Click here</a> to learn more about HydroGraph and its wide array of product offerings. </em></p>
+<p>The post <a rel="nofollow" href="https://www.visualcapitalist.com/graphene-the-wonder-material-of-the-future/">Graphene: The Wonder Material of the Future</a> appeared first on <a rel="nofollow" href="https://www.visualcapitalist.com">Visual Capitalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.visualcapitalist.com/graphene-the-wonder-material-of-the-future/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">144138</post-id>	</item>
+	</channel>
+</rss>
